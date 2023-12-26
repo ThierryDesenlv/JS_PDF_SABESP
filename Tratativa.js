@@ -1,0 +1,24856 @@
+const notas = {
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (1)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43.776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "G",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "regulação",
+            "page": 1
+        }, {
+            "content": "(TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "0,64",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "822693780002",
+            "page": 1
+        }, {
+            "content": "SOR2023121182486",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "0822693780",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "1/1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGREJA",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE",
+            "page": 1
+        }, {
+            "content": "SUA",
+            "page": 1
+        }, {
+            "content": "FATURA",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "PIX",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "15460000",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "OVIDIO",
+            "page": 1
+        }, {
+            "content": "CUSTODIO",
+            "page": 1
+        }, {
+            "content": "MOREIRA.193",
+            "page": 1
+        }, {
+            "content": "-",
+            "page": 1
+        }, {
+            "content": "COMPL.IGREJA",
+            "page": 1
+        }, {
+            "content": "CENTRO",
+            "page": 1
+        }, {
+            "content": "ICEM",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "822693780",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "Y12L606908",
+            "page": 1
+        }, {
+            "content": "Considerar",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "quitada",
+            "page": 1
+        }, {
+            "content": "quando",
+            "page": 1
+        }, {
+            "content": "efetuado",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "Se",
+            "page": 1
+        }, {
+            "content": "por",
+            "page": 1
+        }, {
+            "content": "algum",
+            "page": 1
+        }, {
+            "content": "motivo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "seu",
+            "page": 1
+        }, {
+            "content": "conhecimento",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "ocorrer",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUAE",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "pague",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "qualquer",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGE",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0,033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "551",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "551",
+            "page": 1
+        }, {
+            "content": "0",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": ",167",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Agua",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "x",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10,00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "129,55",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão,",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "P.O.ICEM",
+            "page": 1
+        }, {
+            "content": "End.:",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "PREFEITO",
+            "page": 1
+        }, {
+            "content": "JOAO",
+            "page": 1
+        }, {
+            "content": "RIBEIRO",
+            "page": 1
+        }, {
+            "content": "DA",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SEG",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "SEX.",
+            "page": 1
+        }, {
+            "content": "DAS",
+            "page": 1
+        }, {
+            "content": "SILVEIRA",
+            "page": 1
+        }, {
+            "content": "1180",
+            "page": 1
+        }, {
+            "content": "ICEM",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "1(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "13h00",
+            "page": 1
+        }, {
+            "content": "ÀS",
+            "page": 1
+        }, {
+            "content": "17h00",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "130.19",
+            "page": 1
+        }, {
+            "content": "8,99",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS,alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "010",
+            "page": 1
+        }, {
+            "content": "010",
+            "page": 1
+        }, {
+            "content": "010",
+            "page": 1
+        }, {
+            "content": "010",
+            "page": 1
+        }, {
+            "content": "010",
+            "page": 1
+        }, {
+            "content": "Análises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Análises:",
+            "page": 1
+        }, {
+            "content": "Todas",
+            "page": 1
+        }, {
+            "content": "as",
+            "page": 1
+        }, {
+            "content": "amostras",
+            "page": 1
+        }, {
+            "content": "atenderam",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "legislação",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "ICEM",
+            "page": 1
+        }, {
+            "content": "ETA",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "82610000001",
+            "page": 1
+        }, {
+            "content": "5",
+            "page": 1
+        }, {
+            "content": "30190097091",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "06789012601",
+            "page": 1
+        }, {
+            "content": "3",
+            "page": 1
+        }, {
+            "content": "00000035803",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "9106789012601",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "822693780002",
+            "page": 1
+        }, {
+            "content": "0822693780",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "I.Sabesp:346.004.001.0001.0130.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43.776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "G",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "Taxa de regulação (TRCF) 0,50%",
+            "page": 1
+        }, {
+            "content": "0,64",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No. Documento Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$ 130,19",
+            "page": 1
+        }, {
+            "content": "822693780002",
+            "page": 1
+        }, {
+            "content": "SOR2023121182486",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 0822693780",
+            "page": 1
+        }, {
+            "content": "Pág. 1/1",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente: IGREJA UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE SUA FATURA COM o PIX",
+            "page": 1
+        }, {
+            "content": "CEP: 15460000 End: RUA OVIDIO CUSTODIO MOREIRA.193 - COMPL.IGREJA",
+            "page": 1
+        }, {
+            "content": "CENTRO ICEM SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 822693780",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: Y12L606908",
+            "page": 1
+        }, {
+            "content": "Considerar esta fatura quitada quando efetuado débito automático",
+            "page": 1
+        }, {
+            "content": "Se por algum motivo de seu conhecimento não ocorrer o débito",
+            "page": 1
+        }, {
+            "content": "Economias: COM: 1",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUAE ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático pague esta fatura em qualquer agente autorizado",
+            "page": 1
+        }, {
+            "content": "Data da apresentação: 19/12/2023 Próxima Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024 Tipo Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGE do mês",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0,033% ao dia",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "551",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "551",
+            "page": 1
+        }, {
+            "content": "0",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": ",167",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Agua",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 x Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0,00 até 10,00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Água + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "129,55",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "P.O.ICEM",
+            "page": 1
+        }, {
+            "content": "End.: RUA PREFEITO JOAO RIBEIRO DA",
+            "page": 1
+        }, {
+            "content": "Dias e horários: DE SEG A SEX. DAS SILVEIRA 1180 ICEM SÃO PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "1(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "13h00 ÀS 17h00",
+            "page": 1
+        }, {
+            "content": "Telefone: 0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "130.19",
+            "page": 1
+        }, {
+            "content": "8,99",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS,alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "010",
+            "page": 1
+        }, {
+            "content": "010",
+            "page": 1
+        }, {
+            "content": "010",
+            "page": 1
+        }, {
+            "content": "010",
+            "page": 1
+        }, {
+            "content": "010",
+            "page": 1
+        }, {
+            "content": "Análises Realizadas",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "011",
+            "page": 1
+        }, {
+            "content": "Conclusão das Análises: Todas as amostras atenderam a legislação",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: ICEM ETA",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "82610000001 5 30190097091 6 06789012601 3 00000035803 6",
+            "page": 1
+        }, {
+            "content": "9106789012601",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "822693780002",
+            "page": 1
+        }, {
+            "content": "0822693780",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "Cod. I.Sabesp:346.004.001.0001.0130.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "Taxa de regulação (TRCF)",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 130,19"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6,90"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "Y12L606908"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "822693780"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "I.Sabesp:346.004.001.0001.0130.0000.0000"
+        }, {
+            "page": 1,
+            "key": "Conclusão das Análises:",
+            "value": "Todas as amostras atenderam a legislação"
+        }, {
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "71.98"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "822693780002"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 130,19"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "822693780002"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUAE ESGOTO"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGREJA UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "71,98 57,57"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 551"
+        }, {
+            "page": 1,
+            "key": "Telefone:",
+            "value": "0800-055-0195"
+        }, {
+            "page": 1,
+            "key": "End.:",
+            "value": "RUA PREFEITO JOAO RIBEIRO DA"
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "57.57"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "0000003580"
+        }, {
+            "page": 1,
+            "key": "Qualidade da Água:",
+            "value": "Decreto 5440-Anexo"
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023121182486"
+        }, {
+            "page": 1,
+            "key": "0,50%",
+            "value": "0,64"
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43.776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "COM: 1"
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Água + VI Esgoto)",
+            "value": "129,55"
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": "ICEM ETA"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "0"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "10/01/2024"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": ",167"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "10/01/2024"
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "130.19"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "8,99"
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "0822693780"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": "1/1"
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "0822693780"
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "RUA OVIDIO CUSTODIO MOREIRA.193 - COMPL.IGREJA"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": "15460000 CENTRO ICEM SP"
+        }, {
+            "page": 1,
+            "key": "ICEM",
+            "value": "SÃO PAULO"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "17/06/2023 18/07/2023 17/08/2023 16/09/2023 17/10/2023 17/11/2023 0(LG) 0(LG) 1(LG) 0(LG) 0(LG) 0(LG)"
+        }, {
+            "page": 1,
+            "key": "Análises Realizadas",
+            "value": "011 011 012 011 011"
+        }, {
+            "page": 1,
+            "key": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Autenticação do",
+            "value": "agente autorizado"
+        }, {
+            "page": 1,
+            "key": "Amostras que atendem ao Padrão",
+            "value": "011 011 012 011 011"
+        }, {
+            "page": 1,
+            "key": "(M3 x Nro.Econ.)",
+            "value": "De 0,00 até 10,00"
+        }, {
+            "page": 1,
+            "key": "(M3)",
+            "value": "Mínimo"
+        }, {
+            "page": 1,
+            "key": "Sabesp",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "(M3)",
+            "value": "Mínimo"
+        }, {
+            "page": 1,
+            "key": "Esgoto Tarifa (R$)",
+            "value": "5,757"
+        }, {
+            "page": 1,
+            "key": "Dias e horários:",
+            "value": "DE SEG A SEX. DAS"
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "57.57"
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": "01-05-10-15-20-25"
+        }, {
+            "page": 1,
+            "key": "Havendo interesse entre",
+            "value": "em contato com a Sabesp."
+        }, {
+            "page": 1,
+            "key": "SILVEIRA 1180",
+            "value": ""
+        }],
+        "tables": [{
+            "headersContent": ["Leitura Anterior", "Leitura Atual", "Consumo (M3)", "Período", "Média (M3)"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["17/11/23 551", "16/12/23 551", "0", "29", ",167"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 x Nro.Econ.)", "(M3)", "Agua Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0,00 até 10,00", "Mínimo", "7,198", "71.98", "Mínimo", "5,757", "57.57"],
+                ["Subtotal  ", "71,98", "", "", "57,57"],
+                ["TOTAL (VI Água + VI Esgoto)     ", "129,55"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Água:", "17/06/2023 0(LG)", "18/07/2023 0(LG)", "17/08/2023 1(LG)", "16/09/2023 0(LG)", "17/10/2023 0(LG)", "17/11/2023 0(LG)", "P.O.ICEM Dias e horários: DE SEG A SEX. DAS 13h00 ÀS 17h00", "End.: RUA PREFEITO JOAO RIBEIRO DA SILVEIRA 1180 ICEM SÃO PAULO Telefone: 0800-055-0195"],
+            "headersSize": 9,
+            "valuesContent": [],
+            "valuesSize": 0,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "010", "010", "010", "010", "010"],
+                ["Análises Realizadas", "011", "011", "012", "011", "011"],
+                ["Amostras que atendem ao Padrão", "011", "011", "012", "011", "011"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["822693780002", "0822693780", "16/12/2023", "10/01/2024", "R$ 130,19"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    },
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (10)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "regulação",
+            "page": 1
+        }, {
+            "content": "(TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "0,72",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Lixo:",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "82,29",
+            "page": 1
+        }, {
+            "content": "1010716988001",
+            "page": 1
+        }, {
+            "content": "SOR2023121196437",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "226,97",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "1010716988",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "1/1",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGREJA",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE",
+            "page": 1
+        }, {
+            "content": "SUA",
+            "page": 1
+        }, {
+            "content": "FATURA",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "PIX",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "09182710",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "OTAVIO",
+            "page": 1
+        }, {
+            "content": "CANDIDO,280",
+            "page": 1
+        }, {
+            "content": "COMPL.IGREJA",
+            "page": 1
+        }, {
+            "content": "JD",
+            "page": 1
+        }, {
+            "content": "MILENA",
+            "page": 1
+        }, {
+            "content": "SANTO",
+            "page": 1
+        }, {
+            "content": "ANDRE",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "2159897530",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "1010716988",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "Y14L355538",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Considerar",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "quitada",
+            "page": 1
+        }, {
+            "content": "quando",
+            "page": 1
+        }, {
+            "content": "efetuado",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUAE",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "Se",
+            "page": 1
+        }, {
+            "content": "por",
+            "page": 1
+        }, {
+            "content": "algum",
+            "page": 1
+        }, {
+            "content": "motivo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "seu",
+            "page": 1
+        }, {
+            "content": "conhecimento",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "ocorrer",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "pague",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "qualquer",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGE",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "856",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "863",
+            "page": 1
+        }, {
+            "content": "7",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "5,583",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0.033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "x",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10,00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "143,96",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão.",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "Poupatempo",
+            "page": 1
+        }, {
+            "content": "Shop",
+            "page": 1
+        }, {
+            "content": "Atrium",
+            "page": 1
+        }, {
+            "content": "Sto",
+            "page": 1
+        }, {
+            "content": "Andre",
+            "page": 1
+        }, {
+            "content": "End.",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "GIOVANNI",
+            "page": 1
+        }, {
+            "content": "BATTISTA",
+            "page": 1
+        }, {
+            "content": "PIRELLI",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "Agende:",
+            "page": 1
+        }, {
+            "content": "seg",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "sex",
+            "page": 1
+        }, {
+            "content": "9h",
+            "page": 1
+        }, {
+            "content": "155",
+            "page": 1
+        }, {
+            "content": "SANTO",
+            "page": 1
+        }, {
+            "content": "ANDRE",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "7(LG)",
+            "page": 1
+        }, {
+            "content": "às",
+            "page": 1
+        }, {
+            "content": "17h/",
+            "page": 1
+        }, {
+            "content": "sab",
+            "page": 1
+        }, {
+            "content": "9h",
+            "page": 1
+        }, {
+            "content": "às",
+            "page": 1
+        }, {
+            "content": "13h",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "144,68",
+            "page": 1
+        }, {
+            "content": "9,99",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS",
+            "page": 1
+        }, {
+            "content": "alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "042",
+            "page": 1
+        }, {
+            "content": "042",
+            "page": 1
+        }, {
+            "content": "042",
+            "page": 1
+        }, {
+            "content": "042",
+            "page": 1
+        }, {
+            "content": "042",
+            "page": 1
+        }, {
+            "content": "Análises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Análises:",
+            "page": 1
+        }, {
+            "content": "Todas",
+            "page": 1
+        }, {
+            "content": "as",
+            "page": 1
+        }, {
+            "content": "amostras",
+            "page": 1
+        }, {
+            "content": "atenderam",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "legislação",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "RIO",
+            "page": 1
+        }, {
+            "content": "GRANDE",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "82660000002",
+            "page": 1
+        }, {
+            "content": "8",
+            "page": 1
+        }, {
+            "content": "26970097091",
+            "page": 1
+        }, {
+            "content": "7",
+            "page": 1
+        }, {
+            "content": "06789334308",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "21598975303",
+            "page": 1
+        }, {
+            "content": "7",
+            "page": 1
+        }, {
+            "content": "9106789334308",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "1010716988001",
+            "page": 1
+        }, {
+            "content": "1010716988",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "226,97",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Sabesp:626.333.008.0235.0001.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Taxa de regulação (TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "0,72",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "Taxa do Lixo:",
+            "page": 1
+        }, {
+            "content": "No. Documento",
+            "page": 1
+        }, {
+            "content": "82,29",
+            "page": 1
+        }, {
+            "content": "1010716988001",
+            "page": 1
+        }, {
+            "content": "SOR2023121196437",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "226,97",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 1010716988",
+            "page": 1
+        }, {
+            "content": "Pág. 1/1",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente: IGREJA UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE SUA FATURA COM o PIX",
+            "page": 1
+        }, {
+            "content": "CEP: 09182710",
+            "page": 1
+        }, {
+            "content": "End: RUA OTAVIO CANDIDO,280 COMPL.IGREJA JD MILENA",
+            "page": 1
+        }, {
+            "content": "SANTO ANDRE SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 2159897530",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 1010716988",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: Y14L355538",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Considerar esta fatura quitada quando efetuado débito automático",
+            "page": 1
+        }, {
+            "content": "Economias: COM: 1",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUAE ESGOTO",
+            "page": 1
+        }, {
+            "content": "Se por algum motivo de seu conhecimento não ocorrer o débito",
+            "page": 1
+        }, {
+            "content": "Data da apresentação: 19/12/2023 Próxima Leitura: 16/01/2024 Tipo Mercado: COMUM",
+            "page": 1
+        }, {
+            "content": "automático pague esta fatura em qualquer agente autorizado",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGE do mês",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "856",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "863",
+            "page": 1
+        }, {
+            "content": "7",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "5,583",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0.033% ao dia",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 x Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0,00 até 10,00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Água + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "143,96",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão. Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "Poupatempo Shop Atrium Sto Andre",
+            "page": 1
+        }, {
+            "content": "End. RUA GIOVANNI BATTISTA PIRELLI",
+            "page": 1
+        }, {
+            "content": "Dias e horários: Agende: seg a sex 9h 155 SANTO ANDRE SÃO PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "7(LG)",
+            "page": 1
+        }, {
+            "content": "às 17h/ sab 9h às 13h",
+            "page": 1
+        }, {
+            "content": "Telefone: 0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "144,68",
+            "page": 1
+        }, {
+            "content": "9,99",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "042",
+            "page": 1
+        }, {
+            "content": "042",
+            "page": 1
+        }, {
+            "content": "042",
+            "page": 1
+        }, {
+            "content": "042",
+            "page": 1
+        }, {
+            "content": "042",
+            "page": 1
+        }, {
+            "content": "Análises Realizadas",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "044",
+            "page": 1
+        }, {
+            "content": "Conclusão das Análises: Todas as amostras atenderam a legislação",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: RIO GRANDE",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "82660000002 8 26970097091 7 06789334308 6 21598975303 7",
+            "page": 1
+        }, {
+            "content": "9106789334308",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "1010716988001",
+            "page": 1
+        }, {
+            "content": "1010716988",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "226,97",
+            "page": 1
+        }, {
+            "content": "Cod. Sabesp:626.333.008.0235.0001.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "Taxa do Lixo:",
+            "value": "82,29"
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "Conclusão das Análises:",
+            "value": "Todas as amostras atenderam a legislação"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6,90"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "Y14L355538"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "1010716988"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23 856"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "9,99"
+        }, {
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "17/06/2023",
+            "value": "5(LG)"
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": "RIO GRANDE"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "1010716988001"
+        }, {
+            "page": 1,
+            "key": "17/10/2023",
+            "value": "6(LG)"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "1010716988001"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUAE ESGOTO"
+        }, {
+            "page": 1,
+            "key": "18/07/2023",
+            "value": "6(LG)"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGREJA UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "71,98 71,98"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "2159897530"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 863"
+        }, {
+            "page": 1,
+            "key": "Telefone:",
+            "value": "0800-055-0195"
+        }, {
+            "page": 1,
+            "key": "End.",
+            "value": "RUA"
+        }, {
+            "page": 1,
+            "key": "",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "17/08/2023",
+            "value": "5(LG)"
+        }, {
+            "page": 1,
+            "key": "XX Portaria",
+            "value": "5/17"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "144,68"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023121196437"
+        }, {
+            "page": 1,
+            "key": "Taxa de regulação (TRCF) 0,50%",
+            "value": "0,72"
+        }, {
+            "page": 1,
+            "key": "SANTO ANDRE",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "17/11/2023",
+            "value": "7(LG)"
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43,776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "COM: 1"
+        }, {
+            "page": 1,
+            "key": "16/09/2023",
+            "value": "5(LG)"
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Água + VI Esgoto)",
+            "value": "143,96"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "7"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": "5,583"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "10/01/2024"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 226,97"
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "1010716988"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": "1/1"
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "1010716988"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "10/01/2024"
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 226,97"
+        }, {
+            "page": 1,
+            "key": "155",
+            "value": "SÃO PAULO"
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": "09182710 SANTO ANDRE SP"
+        }, {
+            "page": 1,
+            "key": "MS alterado pela",
+            "value": "PRT888/21"
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "RUA OTAVIO CANDIDO,280 COMPL.IGREJA JD MILENA"
+        }, {
+            "page": 1,
+            "key": "GIOVANNI BATTISTA PIRELLI",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Autenticação do agente",
+            "value": "autorizado"
+        }, {
+            "page": 1,
+            "key": "Sabesp",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Turbidez",
+            "value": "Cor Cloro Coli. Totais Escherichia Coli."
+        }, {
+            "page": 1,
+            "key": "Poupatempo Shop Atrium Sto Andre",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "e",
+            "value": "PRT2472/21"
+        }, {
+            "page": 1,
+            "key": "(M3 x Nro.Econ.)",
+            "value": "De 0,00 até 10,00"
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "Sabesp:626.333.008.0235.0001.0000.0000"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "Amostras que atendem ao Padrão",
+            "value": "044 044 044 044 044"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "às 17h/ sab 9h às",
+            "value": "13h"
+        }, {
+            "page": 1,
+            "key": "Dias e horários: Agende:",
+            "value": "seg a sex 9h"
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "DÉBITO AUTOMÁTICO",
+            "value": "Considerar esta fatura quitada quando efetuado débito automático Se por algum motivo de seu conhecimento não ocorrer o débito automático pague esta fatura em qualquer agente autorizado No caso de pagamento em atraso serão cobradas Multa de 2% mais Atualização Monetária com base na variação do IPCA/IBGE do mês anterior mais Juros de Mora de 0.033% ao dia 01-05-10-15-20-25 Havendo interesse entre em contato com a Sabesp."
+        }],
+        "tables": [{
+            "headersContent": ["Água:", "71,98"],
+            "headersSize": 2,
+            "valuesContent": [
+                ["Esgoto:", "71,98"],
+                ["Taxa de regulação (TRCF) 0,50%", "0,72"],
+                ["Taxa do Lixo:", "82,29"],
+                ["TOTAL:", "R$ 226,97"],
+                ["VENCIMENTO:", "10/01/2024"]
+            ],
+            "valuesSize": 5,
+            "page": 1
+        }, {
+            "headersContent": ["Leitura Anterior", "Leitura Atual", "Consumo (M3)", "Período", "Média (M3)"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["17/11/23 856", "16/12/23 863", "7", "29", "5,583"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 x Nro.Econ.)", "(M3)", "Água Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0,00 até 10,00", "Mínimo", "7,198", "71,98", "Mínimo", "7,198", "71,98"],
+                ["Subtotal  ", "71,98", "", "", "71,98"],
+                ["TOTAL (VI Água + VI Esgoto)     ", "143,96"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["     ", "  "],
+            "headersSize": 2,
+            "valuesContent": [
+                ["Água:", "17/06/2023 5(LG)", "18/07/2023 6(LG)", "17/08/2023 5(LG)", "16/09/2023 5(LG)", "17/10/2023 6(LG)", "17/11/2023 7(LG)", "Poupatempo Shop Atrium Sto Andre Dias e horários: Agende: seg a sex 9h às 17h/ sab 9h às 13h", "End. RUA GIOVANNI BATTISTA PIRELLI 155 SANTO ANDRE SÃO PAULO Telefone: 0800-055-0195"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Tributos", "Alíquota(%)", "Base de Cálculo(R$)", "Valor(R$)"],
+            "headersSize": 4,
+            "valuesContent": [
+                ["PIS/PASEP E COFINS", "6,90", "144,68", "9,99"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "042", "042", "042", "042", "042"],
+                ["Análises Realizadas", "044", "044", "044", "044", "044"],
+                ["Amostras que atendem ao Padrão", "044", "044", "044", "044", "044"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["1010716988001", "1010716988", "16/12/2023", "10/01/2024", "R$ 226,97"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    },
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (11)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "184,70",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "147,17",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "regulação",
+            "page": 1
+        }, {
+            "content": "(TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "1,65",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "333,52",
+            "page": 1
+        }, {
+            "content": "477883133002",
+            "page": 1
+        }, {
+            "content": "SOR2023121301187",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "0477883133",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGREJA",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE",
+            "page": 1
+        }, {
+            "content": "SUA",
+            "page": 1
+        }, {
+            "content": "FATURA",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "PIX",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "13185240",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "ORLANDO",
+            "page": 1
+        }, {
+            "content": "GERALDELLI",
+            "page": 1
+        }, {
+            "content": "(MARG",
+            "page": 1
+        }, {
+            "content": "B),95",
+            "page": 1
+        }, {
+            "content": "COMPLIGREJA",
+            "page": 1
+        }, {
+            "content": "JARDIM",
+            "page": 1
+        }, {
+            "content": "SANTAIZABEL",
+            "page": 1
+        }, {
+            "content": "-",
+            "page": 1
+        }, {
+            "content": "HORTOLANDIA",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "477883133",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "A19L191708",
+            "page": 1
+        }, {
+            "content": "Considerar",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "quitada",
+            "page": 1
+        }, {
+            "content": "quando",
+            "page": 1
+        }, {
+            "content": "efetuado",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "Se",
+            "page": 1
+        }, {
+            "content": "por",
+            "page": 1
+        }, {
+            "content": "algum",
+            "page": 1
+        }, {
+            "content": "motivo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "seu",
+            "page": 1
+        }, {
+            "content": "conhecimento",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "ocorrer",
+            "page": 1
+        }, {
+            "content": "O",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUAE",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "pague",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "qualquer",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGE",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0.033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "1534",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "1556",
+            "page": 1
+        }, {
+            "content": "22",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "25,667",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25.",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "x",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "10,01",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "20,00",
+            "page": 1
+        }, {
+            "content": "10",
+            "page": 1
+        }, {
+            "content": "8,520",
+            "page": 1
+        }, {
+            "content": "85,20",
+            "page": 1
+        }, {
+            "content": "10",
+            "page": 1
+        }, {
+            "content": "6,760",
+            "page": 1
+        }, {
+            "content": "67.60",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "20.01",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "50,00",
+            "page": 1
+        }, {
+            "content": "2",
+            "page": 1
+        }, {
+            "content": "13,760",
+            "page": 1
+        }, {
+            "content": "27.52",
+            "page": 1
+        }, {
+            "content": "2",
+            "page": 1
+        }, {
+            "content": "11,000",
+            "page": 1
+        }, {
+            "content": "22,00",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "184,70",
+            "page": 1
+        }, {
+            "content": "147,17",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "331,87",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão,",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "AGÊNCIA",
+            "page": 1
+        }, {
+            "content": "HORTOLÂNDIA",
+            "page": 1
+        }, {
+            "content": "End.",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "PASTOR",
+            "page": 1
+        }, {
+            "content": "GERMANO",
+            "page": 1
+        }, {
+            "content": "RITTER",
+            "page": 1
+        }, {
+            "content": "(1)",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SEG",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "SEX.",
+            "page": 1
+        }, {
+            "content": "DAS",
+            "page": 1
+        }, {
+            "content": "651",
+            "page": 1
+        }, {
+            "content": "HORTOLANDIA",
+            "page": 1
+        }, {
+            "content": ":",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "19(LG)",
+            "page": 1
+        }, {
+            "content": "25(LG)",
+            "page": 1
+        }, {
+            "content": "27(LG)",
+            "page": 1
+        }, {
+            "content": "21(LG)",
+            "page": 1
+        }, {
+            "content": "29(LG)",
+            "page": 1
+        }, {
+            "content": "33(LG)",
+            "page": 1
+        }, {
+            "content": "08H",
+            "page": 1
+        }, {
+            "content": "AS",
+            "page": 1
+        }, {
+            "content": "16H",
+            "page": 1
+        }, {
+            "content": "NECESSÁRIO",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6.90",
+            "page": 1
+        }, {
+            "content": "333.52",
+            "page": 1
+        }, {
+            "content": "23.02",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS,alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "159",
+            "page": 1
+        }, {
+            "content": "159",
+            "page": 1
+        }, {
+            "content": "159",
+            "page": 1
+        }, {
+            "content": "159",
+            "page": 1
+        }, {
+            "content": "159",
+            "page": 1
+        }, {
+            "content": "Analises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "162",
+            "page": 1
+        }, {
+            "content": "162",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "162",
+            "page": 1
+        }, {
+            "content": "162",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Análises:",
+            "page": 1
+        }, {
+            "content": "Todas",
+            "page": 1
+        }, {
+            "content": "as",
+            "page": 1
+        }, {
+            "content": "amostras",
+            "page": 1
+        }, {
+            "content": "atenderam",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "legislação",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "HORTOLANDIA",
+            "page": 1
+        }, {
+            "content": "ETA",
+            "page": 1
+        }, {
+            "content": "BOA",
+            "page": 1
+        }, {
+            "content": "ESPERANCA",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "82600000003",
+            "page": 1
+        }, {
+            "content": "2",
+            "page": 1
+        }, {
+            "content": "33520097091",
+            "page": 1
+        }, {
+            "content": "1",
+            "page": 1
+        }, {
+            "content": "06791071672",
+            "page": 1
+        }, {
+            "content": "8",
+            "page": 1
+        }, {
+            "content": "00000035803",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "9106791071672",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "477883133002",
+            "page": 1
+        }, {
+            "content": "0477883133",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "333,52",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Sabesp:769.013.015.0106.0320.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "184,70",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "147,17",
+            "page": 1
+        }, {
+            "content": "Taxa de regulação (TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "1,65",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No. Documento",
+            "page": 1
+        }, {
+            "content": "Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$ 333,52",
+            "page": 1
+        }, {
+            "content": "477883133002",
+            "page": 1
+        }, {
+            "content": "SOR2023121301187",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 0477883133",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente: IGREJA UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE SUA FATURA COM o PIX",
+            "page": 1
+        }, {
+            "content": "CEP: 13185240",
+            "page": 1
+        }, {
+            "content": "End: RUA ORLANDO GERALDELLI (MARG B),95 COMPLIGREJA",
+            "page": 1
+        }, {
+            "content": "JARDIM SANTAIZABEL - HORTOLANDIA SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 477883133",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: A19L191708",
+            "page": 1
+        }, {
+            "content": "Considerar esta fatura quitada quando efetuado débito automático",
+            "page": 1
+        }, {
+            "content": "Se por algum motivo de seu conhecimento não ocorrer O débito",
+            "page": 1
+        }, {
+            "content": "Economias: COM: 1",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUAE ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático pague esta fatura em qualquer agente autorizado",
+            "page": 1
+        }, {
+            "content": "Data da apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023 Próxima Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024 Tipo Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGE do mês",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0.033% ao dia",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "1534",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "1556",
+            "page": 1
+        }, {
+            "content": "22",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "25,667",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25.",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 x Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0,00 até 10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "De 10,01 até 20,00",
+            "page": 1
+        }, {
+            "content": "10",
+            "page": 1
+        }, {
+            "content": "8,520",
+            "page": 1
+        }, {
+            "content": "85,20",
+            "page": 1
+        }, {
+            "content": "10",
+            "page": 1
+        }, {
+            "content": "6,760",
+            "page": 1
+        }, {
+            "content": "67.60",
+            "page": 1
+        }, {
+            "content": "De 20.01 até 50,00",
+            "page": 1
+        }, {
+            "content": "2",
+            "page": 1
+        }, {
+            "content": "13,760",
+            "page": 1
+        }, {
+            "content": "27.52",
+            "page": 1
+        }, {
+            "content": "2",
+            "page": 1
+        }, {
+            "content": "11,000",
+            "page": 1
+        }, {
+            "content": "22,00",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "184,70",
+            "page": 1
+        }, {
+            "content": "147,17",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Água + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "331,87",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "AGÊNCIA HORTOLÂNDIA",
+            "page": 1
+        }, {
+            "content": "End. RUA PASTOR GERMANO RITTER (1)",
+            "page": 1
+        }, {
+            "content": "Dias e horários: DE SEG A SEX. DAS 651 HORTOLANDIA : SÃO PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "19(LG)",
+            "page": 1
+        }, {
+            "content": "25(LG)",
+            "page": 1
+        }, {
+            "content": "27(LG)",
+            "page": 1
+        }, {
+            "content": "21(LG)",
+            "page": 1
+        }, {
+            "content": "29(LG)",
+            "page": 1
+        }, {
+            "content": "33(LG)",
+            "page": 1
+        }, {
+            "content": "08H",
+            "page": 1
+        }, {
+            "content": "AS",
+            "page": 1
+        }, {
+            "content": "16H",
+            "page": 1
+        }, {
+            "content": "NECESSÁRIO Telefone:",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6.90",
+            "page": 1
+        }, {
+            "content": "333.52",
+            "page": 1
+        }, {
+            "content": "23.02",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS,alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "159",
+            "page": 1
+        }, {
+            "content": "159",
+            "page": 1
+        }, {
+            "content": "159",
+            "page": 1
+        }, {
+            "content": "159",
+            "page": 1
+        }, {
+            "content": "159",
+            "page": 1
+        }, {
+            "content": "Analises Realizadas",
+            "page": 1
+        }, {
+            "content": "162",
+            "page": 1
+        }, {
+            "content": "162",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "162",
+            "page": 1
+        }, {
+            "content": "162",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "161",
+            "page": 1
+        }, {
+            "content": "Conclusão das Análises: Todas as amostras atenderam a legislação",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: HORTOLANDIA ETA BOA ESPERANCA",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "82600000003 2 33520097091 1 06791071672 8 00000035803 6",
+            "page": 1
+        }, {
+            "content": "9106791071672",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "477883133002",
+            "page": 1
+        }, {
+            "content": "0477883133",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "333,52",
+            "page": 1
+        }, {
+            "content": "Cod. Sabesp:769.013.015.0106.0320.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "Taxa de regulação (TRCF)",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "End.",
+            "value": "RUA PASTOR GERMANO RITTER (1)"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "A19L191708"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "477883133"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Água + VI Esgoto)",
+            "value": "331,87"
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23 1534"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "23.02"
+        }, {
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": "HORTOLANDIA ETA BOA ESPERANCA"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "477883133002"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "184,70"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "477883133002"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 333,52"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUAE ESGOTO"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGREJA UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "0000003580"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 1556"
+        }, {
+            "page": 1,
+            "key": "Telefone:",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "147,17"
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": "13185240"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "333.52"
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023121301187"
+        }, {
+            "page": 1,
+            "key": "0,50%",
+            "value": "1,65"
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43,776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "COM: 1"
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "0477883133"
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Conclusão das Análises:",
+            "value": "Todas as amostras atenderam a legislação"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "22"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": "25,667"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6.90"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "10/01/2024"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "184,70 147,17"
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "0477883133"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "RUA ORLANDO GERALDELLI (MARG B),95 COMPLIGREJA - HORTOLANDIA SP"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "10/01/2024"
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 333,52"
+        }, {
+            "page": 1,
+            "key": "De",
+            "value": "10,01 até 20,00"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "pela",
+            "value": "PRT888/21"
+        }, {
+            "page": 1,
+            "key": "e",
+            "value": "PRT2472/21"
+        }, {
+            "page": 1,
+            "key": "DÉBITO AUTOMÁTICO",
+            "value": "Considerar esta fatura quitada quando efetuado débito automático Se por algum motivo de seu conhecimento não ocorrer O débito automático pague esta fatura em qualquer agente autorizado No caso de pagamento em atraso serão cobradas Multa de 2% mais Atualização Monetária com base na variação do IPCA/IBGE do mês anterior mais Juros de Mora de 0.033% ao dia 01-05-10-15-20-25. Havendo interesse entre em contato com a Sabesp."
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "De",
+            "value": "0,00 até 10.00"
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "Sabesp:769.013.015.0106.0320.0000.0000"
+        }, {
+            "page": 1,
+            "key": "Autenticação",
+            "value": "agente autorizado"
+        }, {
+            "page": 1,
+            "key": "Amostras que atendem ao Padrão",
+            "value": "162 162 161 161 161"
+        }, {
+            "page": 1,
+            "key": "Analises Realizadas",
+            "value": "162 162 161 161 161"
+        }, {
+            "page": 1,
+            "key": "Dias e horários:",
+            "value": "DE SEG A SEX. DAS"
+        }, {
+            "page": 1,
+            "key": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "value": "17/06/2023 18/07/2023 17/08/2023 16/09/2023 17/10/2023 17/11/2023 19(LG) 25(LG) 27(LG) 21(LG) 29(LG) 33(LG)"
+        }],
+        "tables": [{
+            "headersContent": ["", "Leitura Anterior", "Leitura Atual", "Consumo (M3)", "Período", "Média (M3)"],
+            "headersSize": 6,
+            "valuesContent": [
+                ["", "17/11/23 1534", "16/12/23 1556", "22", "29", "25,667"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 x Nro.Econ.)", "(M3)", "Água Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0,00 até 10.00", "Mínimo", "7,198", "71,98", "Mínimo", "5,757", "57.57"],
+                ["De 10,01 até 20,00", "10", "8,520", "85,20", "10", "6,760", "67.60"],
+                ["De 20.01 até 50,00", "2", "13,760", "27.52", "2", "11,000", "22,00"],
+                ["Subtotal   184,70  ", "147,17"],
+                ["TOTAL (VI Água + VI Esgoto)     ", "331,87"]
+            ],
+            "valuesSize": 5,
+            "page": 1
+        }, {
+            "headersContent": ["Tributos", "Alíquota(%)", "Base de Cálculo(R$)", "Valor(R$)"],
+            "headersSize": 4,
+            "valuesContent": [
+                ["PIS/PASEP E COFINS", "6.90", "333.52", "23.02"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "159", "159", "159", "159", "159"],
+                ["Analises Realizadas", "162", "162", "161", "161", "161"],
+                ["Amostras que atendem ao Padrão", "162", "162", "161", "161", "161"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["477883133002", "0477883133", "16/12/2023", "10/01/2024", "R$ 333,52"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    },
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (2)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "regulação",
+            "page": 1
+        }, {
+            "content": "(TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "0,64",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "86040485048980",
+            "page": 1
+        }, {
+            "content": "SOR2023121224544",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "3119769721",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "/1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGREJA",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE",
+            "page": 1
+        }, {
+            "content": "SUA",
+            "page": 1
+        }, {
+            "content": "FATURA",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "PIX",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "17240000",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "AVENIDA",
+            "page": 1
+        }, {
+            "content": "PASCHOAL",
+            "page": 1
+        }, {
+            "content": "NIGRO",
+            "page": 1
+        }, {
+            "content": "SOBRINHO,70",
+            "page": 1
+        }, {
+            "content": "JD",
+            "page": 1
+        }, {
+            "content": "SAO",
+            "page": 1
+        }, {
+            "content": "JOSE",
+            "page": 1
+        }, {
+            "content": "BOCAINA",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "292305001",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "Y18L213824D0001",
+            "page": 1
+        }, {
+            "content": "Considerar",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "quitada",
+            "page": 1
+        }, {
+            "content": "quando",
+            "page": 1
+        }, {
+            "content": "efetuado",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "Se",
+            "page": 1
+        }, {
+            "content": "por",
+            "page": 1
+        }, {
+            "content": "algum",
+            "page": 1
+        }, {
+            "content": "motivo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "seu",
+            "page": 1
+        }, {
+            "content": "conhecimento",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "ocorrer",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUA",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "pague",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "qualquer",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGF",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0.033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "324",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "333",
+            "page": 1
+        }, {
+            "content": "9",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "7,417",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "x",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10,00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "129,55",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão,",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "AGENCIA",
+            "page": 1
+        }, {
+            "content": "BOCAINA",
+            "page": 1
+        }, {
+            "content": "End.",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "ANTONIA",
+            "page": 1
+        }, {
+            "content": "LUCI",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "PELOSO",
+            "page": 1
+        }, {
+            "content": "250",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SEG",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "SEX",
+            "page": 1
+        }, {
+            "content": "DAS",
+            "page": 1
+        }, {
+            "content": "BOCAINA",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "7(LG)",
+            "page": 1
+        }, {
+            "content": "7(LG)",
+            "page": 1
+        }, {
+            "content": "11(LG)",
+            "page": 1
+        }, {
+            "content": "10(LG)",
+            "page": 1
+        }, {
+            "content": "10H",
+            "page": 1
+        }, {
+            "content": "AS",
+            "page": 1
+        }, {
+            "content": "16H",
+            "page": 1
+        }, {
+            "content": "APENAS",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "130.19",
+            "page": 1
+        }, {
+            "content": "8,99",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS",
+            "page": 1
+        }, {
+            "content": "alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "Análises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Análises:",
+            "page": 1
+        }, {
+            "content": "Todas",
+            "page": 1
+        }, {
+            "content": "as",
+            "page": 1
+        }, {
+            "content": "amostras",
+            "page": 1
+        }, {
+            "content": "atenderam",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "legislação",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "BOCAINA",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "82620000001",
+            "page": 1
+        }, {
+            "content": "4",
+            "page": 1
+        }, {
+            "content": "30190097091",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "06788929002",
+            "page": 1
+        }, {
+            "content": "8",
+            "page": 1
+        }, {
+            "content": "00000035803",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "9106788929002",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "86040485048980",
+            "page": 1
+        }, {
+            "content": "0292305001",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Sabesp:217.003.001.0001.0700.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Taxa de regulação (TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "0,64",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No. Documento",
+            "page": 1
+        }, {
+            "content": "Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$ 130,19",
+            "page": 1
+        }, {
+            "content": "86040485048980",
+            "page": 1
+        }, {
+            "content": "SOR2023121224544",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 3119769721",
+            "page": 1
+        }, {
+            "content": "Pág. /1",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente: IGREJA UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE SUA FATURA COM o PIX",
+            "page": 1
+        }, {
+            "content": "CEP: 17240000",
+            "page": 1
+        }, {
+            "content": "End: AVENIDA PASCHOAL NIGRO SOBRINHO,70 JD SAO JOSE",
+            "page": 1
+        }, {
+            "content": "BOCAINA SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 292305001",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: Y18L213824D0001",
+            "page": 1
+        }, {
+            "content": "Considerar esta fatura quitada quando efetuado débito automático",
+            "page": 1
+        }, {
+            "content": "Se por algum motivo de seu conhecimento não ocorrer o débito",
+            "page": 1
+        }, {
+            "content": "Economias: COM: 1",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUA ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático pague esta fatura em qualquer agente autorizado",
+            "page": 1
+        }, {
+            "content": "Data da apresentação: 19/12/2023 Próxima Leitura: 16/01/2024 Tipo Mercado: COMUM",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGF do mês",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0.033% ao dia",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "324",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "333",
+            "page": 1
+        }, {
+            "content": "9",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "7,417",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 x Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0,00 até 10,00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Água + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "129,55",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "AGENCIA BOCAINA",
+            "page": 1
+        }, {
+            "content": "End. RUA ANTONIA LUCI S PELOSO 250",
+            "page": 1
+        }, {
+            "content": "Dias e horários: DE SEG A SEX DAS BOCAINA SÃO PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "7(LG)",
+            "page": 1
+        }, {
+            "content": "7(LG)",
+            "page": 1
+        }, {
+            "content": "11(LG)",
+            "page": 1
+        }, {
+            "content": "10(LG)",
+            "page": 1
+        }, {
+            "content": "10H AS 16H",
+            "page": 1
+        }, {
+            "content": "APENAS COM Telefone: 0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "130.19",
+            "page": 1
+        }, {
+            "content": "8,99",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "Análises Realizadas",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "012",
+            "page": 1
+        }, {
+            "content": "Conclusão das Análises: Todas as amostras atenderam a legislação",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: BOCAINA",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "82620000001 4 30190097091 6 06788929002 8 00000035803 6",
+            "page": 1
+        }, {
+            "content": "9106788929002",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "86040485048980",
+            "page": 1
+        }, {
+            "content": "0292305001",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "Cod. Sabesp:217.003.001.0001.0700.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 130,19"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6,90"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "Y18L213824D0001"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "292305001"
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23 324"
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "RUA ANTONIA LUCI S PELOSO",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Conclusão das Análises:",
+            "value": "Todas as amostras atenderam a legislação"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "86040485048980"
+        }, {
+            "page": 1,
+            "key": "Qualidade da Água:",
+            "value": "Decreto 5440-Anexo XX Portaria 5/17 MS alterado PRT888/21 e PRT2472/21"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 130,19"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "86040485048980"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUA ESGOTO"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGREJA UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "0000003580"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 333"
+        }, {
+            "page": 1,
+            "key": "End.",
+            "value": "250"
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "57,57"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023121224544"
+        }, {
+            "page": 1,
+            "key": "Taxa de regulação (TRCF) 0,50%",
+            "value": "0,64"
+        }, {
+            "page": 1,
+            "key": "Telefone:",
+            "value": "0800-055-0195"
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43,776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "COM: 1"
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Água + VI Esgoto)",
+            "value": "129,55"
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": "BOCAINA"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "9"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "05/01/2024"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": "7,417"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "05/01/2024"
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "130.19"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "8,99"
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "3119769721"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": "/1"
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "0292305001"
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "AVENIDA PASCHOAL NIGRO SOBRINHO,70 JD SAO JOSE"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "71,98 57,57"
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": "17240000 BOCAINA SP"
+        }, {
+            "page": 1,
+            "key": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "value": "17/06/2023 18/07/2023 17/08/2023 16/09/2023 17/10/2023 17/11/2023 Água: 5(LG) 5(LG) 7(LG) 7(LG) 11(LG) 10(LG)"
+        }, {
+            "page": 1,
+            "key": "Autenticação do agente",
+            "value": "autorizado"
+        }, {
+            "page": 1,
+            "key": "10H AS 16H",
+            "value": "APENAS"
+        }, {
+            "page": 1,
+            "key": "pela",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "DÉBITO AUTOMÁTICO",
+            "value": "Considerar esta fatura quitada quando efetuado débito automático Se por algum motivo de seu conhecimento não ocorrer o débito automático pague esta fatura em qualquer agente autorizado No caso de pagamento em atraso serão cobradas Multa de 2% mais Atualização Monetária com base na variação do IPCA/IBGF do mês anterior mais Juros de Mora de 0.033% ao dia 01-05-10-15-20-25 Havendo interesse entre em contato com a Sabesp."
+        }, {
+            "page": 1,
+            "key": "",
+            "value": "SÃO PAULO"
+        }, {
+            "page": 1,
+            "key": "(M3 x Nro.Econ.)",
+            "value": "De 0,00 até 10,00"
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "Sabesp:217.003.001.0001.0700.0000.0000"
+        }, {
+            "page": 1,
+            "key": "Tarifa (R$)",
+            "value": "7,198"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "Amostras que atendem ao Padrão",
+            "value": "012 012 012 012 012"
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Turbidez",
+            "value": "Cor Cloro Coli. Totais Escherichia Coli."
+        }, {
+            "page": 1,
+            "key": "BOCAINA",
+            "value": ""
+        }],
+        "tables": [{
+            "headersContent": [" Leitura Anterior", "Leitura Atual ", "Consumo (M3)", "Período", "Média (M3)"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["Água:", "17/11/23", "324", "16/12/23", "333", "9", "29", "7,417"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 x Nro.Econ.)", "(M3)", "Água Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0,00 até 10,00", "Mínimo", "7,198", "71,98", "Mínimo", "5,757", "57,57"],
+                ["Subtotal  ", "71,98", "", "", "57,57"],
+                ["TOTAL (VI Água + VI Esgoto)     ", "129,55"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo) ", "", "Atendimento Sabesp"],
+            "headersSize": 3,
+            "valuesContent": [
+                ["Água:", "17/06/2023 5(LG)", "18/07/2023 5(LG)", "17/08/2023 7(LG)", "16/09/2023 7(LG)", "17/10/2023 11(LG)", "17/11/2023 10(LG)", "AGENCIA BOCAINA End. RUA ANTONIA LUCI S PELOSO 250 Dias e horários: DE SEG A SEX DAS BOCAINA SÃO PAULO 10H AS 16H APENAS COM Telefone: 0800-055-0195 AGENDAMENTO"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "012", "012", "012", "012", "012"],
+                ["Análises Realizadas", "012", "012", "012", "012", "012"],
+                ["Amostras que atendem ao Padrão", "012", "012", "012", "012", "012"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["86040485048980", "0292305001", "16/12/2023", "05/01/2024", "R$ 130,19"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    },
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (3)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "114,58",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "91,37",
+            "page": 1
+        }, {
+            "content": "Multa:",
+            "page": 1
+        }, {
+            "content": "-3,70",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "At",
+            "page": 1
+        }, {
+            "content": "Monet:",
+            "page": 1
+        }, {
+            "content": "-0,76",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora:",
+            "page": 1
+        }, {
+            "content": "-3,09",
+            "page": 1
+        }, {
+            "content": "518274330001",
+            "page": 1
+        }, {
+            "content": "SOR2023121221684",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "Crédito:",
+            "page": 1
+        }, {
+            "content": "7,55",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "0518274330",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "1/1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "13,12",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGJ",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "13930000",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "AVENIDA",
+            "page": 1
+        }, {
+            "content": "ARIOVALDO",
+            "page": 1
+        }, {
+            "content": "VIANA,200",
+            "page": 1
+        }, {
+            "content": "COMPL.IGREJA",
+            "page": 1
+        }, {
+            "content": "NHOZINHO",
+            "page": 1
+        }, {
+            "content": "SERRA",
+            "page": 1
+        }, {
+            "content": "NEGRA",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "PAGUE",
+            "page": 1
+        }, {
+            "content": "SUA",
+            "page": 1
+        }, {
+            "content": "FATURA",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "PIX",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "0874984370",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "518274330",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "A19L502321",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUAE",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "Considerar",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "quitada",
+            "page": 1
+        }, {
+            "content": "quando",
+            "page": 1
+        }, {
+            "content": "efetuado",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "Se",
+            "page": 1
+        }, {
+            "content": "por",
+            "page": 1
+        }, {
+            "content": "algum",
+            "page": 1
+        }, {
+            "content": "motivo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "seu",
+            "page": 1
+        }, {
+            "content": "conhecimento",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "ocorrer",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "pague",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "qualquer",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "934",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "949",
+            "page": 1
+        }, {
+            "content": "15",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "20,75",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGE",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0.033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25.",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10,00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "10,01",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "20.00",
+            "page": 1
+        }, {
+            "content": "5",
+            "page": 1
+        }, {
+            "content": "8,520",
+            "page": 1
+        }, {
+            "content": "42.60",
+            "page": 1
+        }, {
+            "content": "5",
+            "page": 1
+        }, {
+            "content": "6,760",
+            "page": 1
+        }, {
+            "content": "33.80",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "114,58",
+            "page": 1
+        }, {
+            "content": "91.37",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "205,95",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão,",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "SETOR",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SERRA",
+            "page": 1
+        }, {
+            "content": "NEGRA",
+            "page": 1
+        }, {
+            "content": "End.:",
+            "page": 1
+        }, {
+            "content": "AVENIDA",
+            "page": 1
+        }, {
+            "content": "JUCA",
+            "page": 1
+        }, {
+            "content": "PRETO",
+            "page": 1
+        }, {
+            "content": "604",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SEG",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "SEX",
+            "page": 1
+        }, {
+            "content": "DAS",
+            "page": 1
+        }, {
+            "content": "SERRA",
+            "page": 1
+        }, {
+            "content": "NEGRA",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17(LG)",
+            "page": 1
+        }, {
+            "content": "19(LG)",
+            "page": 1
+        }, {
+            "content": "17(LG)",
+            "page": 1
+        }, {
+            "content": "35(LG)",
+            "page": 1
+        }, {
+            "content": "23(LG)",
+            "page": 1
+        }, {
+            "content": "14(LG)",
+            "page": 1
+        }, {
+            "content": "09h00",
+            "page": 1
+        }, {
+            "content": "ÀS",
+            "page": 1
+        }, {
+            "content": "16h00",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO",
+            "page": 1
+        }, {
+            "content": "PREVIO",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Nesta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "está(ão)",
+            "page": 1
+        }, {
+            "content": "sendo",
+            "page": 1
+        }, {
+            "content": "restituído(s)",
+            "page": 1
+        }, {
+            "content": "R$185,28",
+            "page": 1
+        }, {
+            "content": "referente",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "fatura(s)",
+            "page": 1
+        }, {
+            "content": "do(s)",
+            "page": 1
+        }, {
+            "content": "mês(es)",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão",
+            "page": 1
+        }, {
+            "content": "09/23",
+            "page": 1
+        }, {
+            "content": "conforme",
+            "page": 1
+        }, {
+            "content": "processos",
+            "page": 1
+        }, {
+            "content": "solicitados.",
+            "page": 1
+        }, {
+            "content": "Crédito",
+            "page": 1
+        }, {
+            "content": "no",
+            "page": 1
+        }, {
+            "content": "valor",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "7,55",
+            "page": 1
+        }, {
+            "content": "referente",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês/ano",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão",
+            "page": 1
+        }, {
+            "content": "09/2023",
+            "page": 1
+        }, {
+            "content": "Crédito",
+            "page": 1
+        }, {
+            "content": "no",
+            "page": 1
+        }, {
+            "content": "valor",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "7,55",
+            "page": 1
+        }, {
+            "content": "ref.",
+            "page": 1
+        }, {
+            "content": "multa,",
+            "page": 1
+        }, {
+            "content": "atualização",
+            "page": 1
+        }, {
+            "content": "monetária",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "mora.",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "202,25",
+            "page": 1
+        }, {
+            "content": "13,96",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS",
+            "page": 1
+        }, {
+            "content": ".alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "019",
+            "page": 1
+        }, {
+            "content": "019",
+            "page": 1
+        }, {
+            "content": "019",
+            "page": 1
+        }, {
+            "content": "019",
+            "page": 1
+        }, {
+            "content": "019",
+            "page": 1
+        }, {
+            "content": "Análises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "021",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "021",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Análises:",
+            "page": 1
+        }, {
+            "content": "Todas",
+            "page": 1
+        }, {
+            "content": "as",
+            "page": 1
+        }, {
+            "content": "amostras",
+            "page": 1
+        }, {
+            "content": "atenderam",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "legislação",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "SERRA",
+            "page": 1
+        }, {
+            "content": "NEGRA",
+            "page": 1
+        }, {
+            "content": "ETA",
+            "page": 1
+        }, {
+            "content": "JOVINO",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "82660000000",
+            "page": 1
+        }, {
+            "content": "2",
+            "page": 1
+        }, {
+            "content": "13120097091",
+            "page": 1
+        }, {
+            "content": "4",
+            "page": 1
+        }, {
+            "content": "06788877519",
+            "page": 1
+        }, {
+            "content": "3",
+            "page": 1
+        }, {
+            "content": "08749843703",
+            "page": 1
+        }, {
+            "content": "4",
+            "page": 1
+        }, {
+            "content": "9106788877519",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "518274330001",
+            "page": 1
+        }, {
+            "content": "0518274330",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "13,12",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Sabesp:662.015.001.0001.1090.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "114,58",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "91,37",
+            "page": 1
+        }, {
+            "content": "Multa:",
+            "page": 1
+        }, {
+            "content": "-3,70",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No. Documento",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "At Monet:",
+            "page": 1
+        }, {
+            "content": "-0,76",
+            "page": 1
+        }, {
+            "content": "Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "Juros de Mora:",
+            "page": 1
+        }, {
+            "content": "-3,09",
+            "page": 1
+        }, {
+            "content": "518274330001",
+            "page": 1
+        }, {
+            "content": "SOR2023121221684",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "Crédito:",
+            "page": 1
+        }, {
+            "content": "7,55",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 0518274330",
+            "page": 1
+        }, {
+            "content": "Pág. 1/1",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "13,12",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "Cliente: IGJ UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "CEP: 13930000 End: AVENIDA ARIOVALDO VIANA,200 COMPL.IGREJA",
+            "page": 1
+        }, {
+            "content": "NHOZINHO SERRA NEGRA SP",
+            "page": 1
+        }, {
+            "content": "PAGUE SUA FATURA COM o PIX",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 0874984370",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 518274330",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: A19L502321",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Economias: COM: 1",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUAE ESGOTO",
+            "page": 1
+        }, {
+            "content": "Considerar esta fatura quitada quando efetuado débito automático",
+            "page": 1
+        }, {
+            "content": "Data da apresentação: 19/12/2023 Próxima Leitura: 16/01/2024 Tipo Mercado: COMUM",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "Se por algum motivo de seu conhecimento não ocorrer o débito",
+            "page": 1
+        }, {
+            "content": "automático pague esta fatura em qualquer agente autorizado",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "934",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "949",
+            "page": 1
+        }, {
+            "content": "15",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "20,75",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGE do mês",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0.033% ao dia",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25.",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0,00 até 10,00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "De 10,01 até 20.00",
+            "page": 1
+        }, {
+            "content": "5",
+            "page": 1
+        }, {
+            "content": "8,520",
+            "page": 1
+        }, {
+            "content": "42.60",
+            "page": 1
+        }, {
+            "content": "5",
+            "page": 1
+        }, {
+            "content": "6,760",
+            "page": 1
+        }, {
+            "content": "33.80",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "114,58",
+            "page": 1
+        }, {
+            "content": "91.37",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Água + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "205,95",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "SETOR DE SERRA NEGRA",
+            "page": 1
+        }, {
+            "content": "End.: AVENIDA JUCA PRETO 604",
+            "page": 1
+        }, {
+            "content": "Dias e horários: DE SEG A SEX DAS SERRA NEGRA SÃO PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17(LG)",
+            "page": 1
+        }, {
+            "content": "19(LG)",
+            "page": 1
+        }, {
+            "content": "17(LG)",
+            "page": 1
+        }, {
+            "content": "35(LG)",
+            "page": 1
+        }, {
+            "content": "23(LG)",
+            "page": 1
+        }, {
+            "content": "14(LG)",
+            "page": 1
+        }, {
+            "content": "09h00 ÀS 16h00 COM Telefone: 0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO PREVIO",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Nesta fatura está(ão) sendo restituído(s) R$185,28 referente a fatura(s) do(s) mês(es) de emissão 09/23 conforme processos solicitados.",
+            "page": 1
+        }, {
+            "content": "Crédito no valor de R$ 7,55 referente a fatura do mês/ano de emissão 09/2023 Crédito no valor de R$ 7,55 ref. multa, atualização monetária e juros de",
+            "page": 1
+        }, {
+            "content": "mora.",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "202,25",
+            "page": 1
+        }, {
+            "content": "13,96",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS .alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "019",
+            "page": 1
+        }, {
+            "content": "019",
+            "page": 1
+        }, {
+            "content": "019",
+            "page": 1
+        }, {
+            "content": "019",
+            "page": 1
+        }, {
+            "content": "019",
+            "page": 1
+        }, {
+            "content": "Análises Realizadas",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "021",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "021",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "020",
+            "page": 1
+        }, {
+            "content": "Conclusão das Análises: Todas as amostras atenderam a legislação",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: SERRA NEGRA ETA JOVINO",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "82660000000 2 13120097091 4 06788877519 3 08749843703 4",
+            "page": 1
+        }, {
+            "content": "9106788877519",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "518274330001",
+            "page": 1
+        }, {
+            "content": "0518274330",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "13,12",
+            "page": 1
+        }, {
+            "content": "Cod. Sabesp:662.015.001.0001.1090.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "At Monet:",
+            "value": "-0,76"
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6,90"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "518274330001"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "A19L502321"
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "202,25"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "518274330"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Água + VI Esgoto)",
+            "value": "205,95"
+        }, {
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "114,58"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "518274330001"
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "0518274330"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 13,12"
+        }, {
+            "page": 1,
+            "key": "Conclusão das Análises:",
+            "value": "Todas as amostras atenderam a legislação"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Crédito:",
+            "value": "7,55"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUAE ESGOTO"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGJ UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "114,58 91.37"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "0874984370"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "05/01/2024"
+        }, {
+            "page": 1,
+            "key": "De",
+            "value": "10,01 até 20.00"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 949"
+        }, {
+            "page": 1,
+            "key": "Multa:",
+            "value": "-3,70"
+        }, {
+            "page": 1,
+            "key": "De",
+            "value": "0,00 até 10,00"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "13,96"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023121221684"
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "91,37"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "05/01/2024"
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43,776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "COM: 1"
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "Sabesp:662.015.001.0001.1090.0000.0000"
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "Juros de Mora:",
+            "value": "-3,09"
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": "SERRA NEGRA ETA JOVINO"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "15"
+        }, {
+            "page": 1,
+            "key": "COM Telefone:",
+            "value": "0800-055-0195"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": "20,75"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 13,12"
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "0518274330"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": "1/1"
+        }, {
+            "page": 1,
+            "key": "Portaria",
+            "value": "5/17"
+        }, {
+            "page": 1,
+            "key": "MS .alterado pela",
+            "value": "PRT888/21 e PRT2472/21"
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "13930000 AVENIDA ARIOVALDO VIANA,200 COMPL.IGREJA NHOZINHO SERRA NEGRA SP"
+        }, {
+            "page": 1,
+            "key": "AVENIDA JUCA PRETO 604",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "DAS SERRA NEGRA",
+            "value": "SÃO PAULO"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "17/06/2023 18/07/2023 17/08/2023 16/09/2023 17/10/2023 17/11/2023 17(LG) 19(LG) 17(LG) 35(LG) 23(LG) 14(LG)"
+        }, {
+            "page": 1,
+            "key": "Autenticação do agente",
+            "value": "autorizado"
+        }, {
+            "page": 1,
+            "key": "Turbidez",
+            "value": "Cor Cloro Coli. Totais Escherichia Coli."
+        }, {
+            "page": 1,
+            "key": "Cia de Saneamento Basico do Estado de S.P.",
+            "value": "Sabesp"
+        }, {
+            "page": 1,
+            "key": "Mínimo",
+            "value": "5"
+        }, {
+            "page": 1,
+            "key": "End.:",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23"
+        }, {
+            "page": 1,
+            "key": "Nesta fatura está(ão) sendo restituído(s)",
+            "value": "R$185,28"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "de emissão",
+            "value": "09/2023"
+        }, {
+            "page": 1,
+            "key": "do(s) mês(es) de emissão",
+            "value": "09/23"
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "DÉBITO AUTOMÁTICO",
+            "value": "Considerar esta fatura quitada quando efetuado débito automático Se por algum motivo de seu conhecimento não ocorrer o débito automático pague esta fatura em qualquer agente autorizado No caso de pagamento em atraso serão cobradas Multa de 2% mais Atualização Monetária com base na variação do IPCA/IBGE do mês anterior mais Juros de Mora de 0.033% ao dia 01-05-10-15-20-25. Havendo interesse entre em contato com a Sabesp."
+        }],
+        "tables": [{
+            "headersContent": ["Água:", "114,58"],
+            "headersSize": 2,
+            "valuesContent": [
+                ["Esgoto:", "91,37"],
+                ["Multa:", "-3,70"],
+                ["At Monet:", "-0,76"],
+                ["Juros de Mora:", "-3,09"],
+                // ["Juros de Mora:", "-3,09"],
+                ["Crédito:", "-7,55"],
+                // ["Crédito:", "-7,55"],
+                ["TOTAL:", "R$ 13,12"],
+                ["VENCIMENTO:", "05/01/2024"]
+            ],
+            "valuesSize": 7,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 Nro.Econ.)", "(M3)", "Água Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0,00 até 10,00", "Mínimo", "7,198", "71,98", "Mínimo", "5,757", "57.57"],
+                ["De 10,01 até 20.00", "5", "8,520", "42.60", "5", "6,760", "33.80"],
+                ["Subtotal  ", "114,58", "", "", "91.37"],
+                ["TOTAL (VI Água + VI Esgoto)     ", "205,95"]
+            ],
+            "valuesSize": 4,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "019", "019", "019", "019", "019"],
+                ["Análises Realizadas", "020", "020", "021", "020", "020"],
+                ["Amostras que atendem ao Padrão", "020", "020", "021", "020", "020"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["518274330001", "0518274330", "16/12/2023", "05/01/2024", "R$ 13,12"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    },
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (4)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43.776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "G",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "regulação",
+            "page": 1
+        }, {
+            "content": "(TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "0,64",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "86040417973783",
+            "page": 1
+        }, {
+            "content": "SOR2023120950767",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "3056577553",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "1/1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGREJA",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE",
+            "page": 1
+        }, {
+            "content": "SUA",
+            "page": 1
+        }, {
+            "content": "FATURA",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "PIX",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "17280592",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "CORONEL",
+            "page": 1
+        }, {
+            "content": "COIMBRA,55",
+            "page": 1
+        }, {
+            "content": "-",
+            "page": 1
+        }, {
+            "content": "COMPL.NORTE-LU",
+            "page": 1
+        }, {
+            "content": "CENTRO",
+            "page": 1
+        }, {
+            "content": "PEDERNEIRAS",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "351708405",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "A23L093975",
+            "page": 1
+        }, {
+            "content": "Lacre:",
+            "page": 1
+        }, {
+            "content": "ECA2817953",
+            "page": 1
+        }, {
+            "content": "Considerar",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "quitada",
+            "page": 1
+        }, {
+            "content": "quando",
+            "page": 1
+        }, {
+            "content": "efetuado",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "Se",
+            "page": 1
+        }, {
+            "content": "por",
+            "page": 1
+        }, {
+            "content": "algum",
+            "page": 1
+        }, {
+            "content": "motivo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "seu",
+            "page": 1
+        }, {
+            "content": "conhecimento",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "ocorrer",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUA",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "pague",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "qualquer",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGE",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0.033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "21",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "31",
+            "page": 1
+        }, {
+            "content": "10",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "7,75",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25.",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "x",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0.00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Agua",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "129,55",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão,",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "25/08/2023",
+            "page": 1
+        }, {
+            "content": "25/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "AGENCIA",
+            "page": 1
+        }, {
+            "content": "PEDERNEIRAS",
+            "page": 1
+        }, {
+            "content": "End.",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "BENJAMIM",
+            "page": 1
+        }, {
+            "content": "MONTEIRO",
+            "page": 1
+        }, {
+            "content": "377",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SEG",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "SEX",
+            "page": 1
+        }, {
+            "content": "DAS",
+            "page": 1
+        }, {
+            "content": "PEDERNEIRAS",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "12(LG)",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "0(INE)",
+            "page": 1
+        }, {
+            "content": "2(REM)",
+            "page": 1
+        }, {
+            "content": "4(LG)",
+            "page": 1
+        }, {
+            "content": "10H",
+            "page": 1
+        }, {
+            "content": "AS",
+            "page": 1
+        }, {
+            "content": "16H",
+            "page": 1
+        }, {
+            "content": "APENAS",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "0800-055-0195",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO",
+            "page": 1
+        }, {
+            "content": "8(LG)",
+            "page": 1
+        }, {
+            "content": "9(LG)",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "130.19",
+            "page": 1
+        }, {
+            "content": "8,99",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS,alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "Análises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Análises:",
+            "page": 1
+        }, {
+            "content": "Todas",
+            "page": 1
+        }, {
+            "content": "as",
+            "page": 1
+        }, {
+            "content": "amostras",
+            "page": 1
+        }, {
+            "content": "atenderam",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "legislação",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "PEDERNEIRAS",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "82620000001",
+            "page": 1
+        }, {
+            "content": "4",
+            "page": 1
+        }, {
+            "content": "30190097091",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "06788944670",
+            "page": 1
+        }, {
+            "content": "3",
+            "page": 1
+        }, {
+            "content": "00000035803",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "9106788944670",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "86040417973783",
+            "page": 1
+        }, {
+            "content": "0351708405",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Sabesp:515.012.003.0003.1050.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43.776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "G",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Taxa de regulação (TRCF) 0,50%",
+            "page": 1
+        }, {
+            "content": "0,64",
+            "page": 1
+        }, {
+            "content": "Fornecimento No. Documento Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$ 130,19",
+            "page": 1
+        }, {
+            "content": "86040417973783",
+            "page": 1
+        }, {
+            "content": "SOR2023120950767",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 3056577553",
+            "page": 1
+        }, {
+            "content": "Pág. 1/1",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente: IGREJA UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE SUA FATURA COM o PIX",
+            "page": 1
+        }, {
+            "content": "CEP: 17280592",
+            "page": 1
+        }, {
+            "content": "End: RUA CORONEL COIMBRA,55 - COMPL.NORTE-LU CENTRO",
+            "page": 1
+        }, {
+            "content": "PEDERNEIRAS SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 351708405",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: A23L093975",
+            "page": 1
+        }, {
+            "content": "Lacre: ECA2817953",
+            "page": 1
+        }, {
+            "content": "Considerar esta fatura quitada quando efetuado débito automático",
+            "page": 1
+        }, {
+            "content": "Se por algum motivo de seu conhecimento não ocorrer o débito",
+            "page": 1
+        }, {
+            "content": "Economias: COM: 1",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUA ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático pague esta fatura em qualquer agente autorizado",
+            "page": 1
+        }, {
+            "content": "Data da apresentação: 19/12/2023 Próxima Leitura: 16/01/2024 Tipo Mercado: COMUM",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGE do mês",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0.033% ao dia",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "21",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "31",
+            "page": 1
+        }, {
+            "content": "10",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "7,75",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25.",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 x Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0.00 até 10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Agua + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "129,55",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "25/08/2023",
+            "page": 1
+        }, {
+            "content": "25/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "AGENCIA PEDERNEIRAS",
+            "page": 1
+        }, {
+            "content": "End. RUA BENJAMIM MONTEIRO 377",
+            "page": 1
+        }, {
+            "content": "Dias e horários: DE SEG A SEX DAS PEDERNEIRAS SÃO PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "12(LG)",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "0(INE)",
+            "page": 1
+        }, {
+            "content": "2(REM)",
+            "page": 1
+        }, {
+            "content": "4(LG)",
+            "page": 1
+        }, {
+            "content": "10H AS 16H",
+            "page": 1
+        }, {
+            "content": "APENAS COM Telefone: 0800-055-0195",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO",
+            "page": 1
+        }, {
+            "content": "8(LG)",
+            "page": 1
+        }, {
+            "content": "9(LG)",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "130.19",
+            "page": 1
+        }, {
+            "content": "8,99",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS,alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "Análises Realizadas",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "045",
+            "page": 1
+        }, {
+            "content": "Conclusão das Análises: Todas as amostras atenderam a legislação",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: PEDERNEIRAS",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "82620000001 4 30190097091 6 06788944670 3 00000035803 6",
+            "page": 1
+        }, {
+            "content": "9106788944670",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "86040417973783",
+            "page": 1
+        }, {
+            "content": "0351708405",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "Cod. Sabesp:515.012.003.0003.1050.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "PEDERNEIRAS",
+            "value": "SÃO PAULO"
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 130,19"
+        }, {
+            "page": 1,
+            "key": "Conclusão das Análises:",
+            "value": "Todas as amostras atenderam a legislação"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6,90"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "A23L093975"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "351708405"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "End. RUA BENJAMIM MONTEIRO",
+            "value": "377"
+        }, {
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "86040417973783"
+        }, {
+            "page": 1,
+            "key": "Portaria",
+            "value": "5/17"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 130,19"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "86040417973783"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUA ESGOTO"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGREJA UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "Dias e horários:",
+            "value": "DE SEG A SEX DAS"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 31"
+        }, {
+            "page": 1,
+            "key": "Telefone:",
+            "value": "0800-055-0195"
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "57,57"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "0000003580"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023120950767"
+        }, {
+            "page": 1,
+            "key": "Taxa de regulação (TRCF) 0,50%",
+            "value": "0,64"
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43.776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Lacre:",
+            "value": "ECA2817953"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "COM: 1"
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": "01-05-10-15-20-25."
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Agua + VI Esgoto)",
+            "value": "129,55"
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": "PEDERNEIRAS"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "10"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "20/01/2024"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": "7,75"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "20/01/2024"
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "130.19"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "8,99"
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "3056577553"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": "1/1"
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "0351708405"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "71,98 57,57"
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": "17280592 PEDERNEIRAS SP"
+        }, {
+            "page": 1,
+            "key": "MS,alterado pela",
+            "value": "PRT888/21"
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "RUA CORONEL COIMBRA,55 - COMPL.NORTE-LU CENTRO"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "17/06/2023 18/07/2023 17/08/2023 25/08/2023 25/08/2023 16/09/2023 6(LG) 12(LG) 6(LG) 0(INE) 2(REM) 4(LG) 17/10/2023 17/11/2023 8(LG) 9(LG)"
+        }, {
+            "page": 1,
+            "key": "Amostras que atendem ao Padrão",
+            "value": "045 045 045 045 045"
+        }, {
+            "page": 1,
+            "key": "(M3 x Nro.Econ.)",
+            "value": "De 0.00 até 10.00"
+        }, {
+            "page": 1,
+            "key": "Sabesp",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "e",
+            "value": "PRT2472/21"
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23"
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "Sabesp:515.012.003.0003.1050.0000.0000"
+        }, {
+            "page": 1,
+            "key": "Autenticação do",
+            "value": "agente autorizado"
+        }, {
+            "page": 1,
+            "key": "Tarifa (R$)",
+            "value": "7,198"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "71.98"
+        }, {
+            "page": 1,
+            "key": "(M3)",
+            "value": "Mínimo"
+        }, {
+            "page": 1,
+            "key": "Turbidez",
+            "value": "Cor Cloro Coli. Totais Escherichia Coli."
+        }, {
+            "page": 1,
+            "key": "Esgoto Tarifa (R$)",
+            "value": "5,757"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "57,57"
+        }, {
+            "page": 1,
+            "key": "10H AS 16H",
+            "value": "APENAS"
+        }, {
+            "page": 1,
+            "key": "Havendo interesse entre em contato com a",
+            "value": "Sabesp."
+        }, {
+            "page": 1,
+            "key": "Considerar esta fatura quitada quando efetuado débito automático Se por algum motivo de seu conhecimento não ocorrer o débito automático pague esta fatura em qualquer agente autorizado",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "",
+            "value": ""
+        }],
+        "tables": [{
+            "headersContent": [" Leitura Anterior", "Leitura Atual", "Consumo (M3)", "Período", "Média (M3)"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["Água:", "17/11/23", "21", "16/12/23 31", "10", "29", "7,75"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 x Nro.Econ.)", "(M3)", "Água Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0.00 até 10.00", "Mínimo", "7,198", "71.98", "Mínimo", "5,757", "57,57"],
+                ["Subtotal  ", "71,98", "", "", "57,57"],
+                ["TOTAL (VI Agua + VI Esgoto)     ", "129,55"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["", "17/06/2023", "18/07/2023", "17/08/2023", "25/08/2023", "25/08/2023", "16/09/2023"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["Água:", "6(LG) 17/10/2023 8(LG)", "12(LG) 17/11/2023 9(LG)", "6(LG)", "0(INE)", "2(REM)", "4(LG)"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "045", "045", "045", "045", "045"],
+                ["Análises Realizadas", "045", "045", "045", "045", "045"],
+                ["Amostras que atendem ao Padrão", "045", "045", "045", "045", "045"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["86040417973783", "0351708405", "16/12/2023", "20/01/2024", "R$ 130,19"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    },
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (5)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "155.98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "155.98",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "regulação",
+            "page": 1
+        }, {
+            "content": "(TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "1,56",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "313.52",
+            "page": 1
+        }, {
+            "content": "86040527205079",
+            "page": 1
+        }, {
+            "content": "SOR2023120977825",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "27/12/2023",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "3159885170",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "1/1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGREJA",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE",
+            "page": 1
+        }, {
+            "content": "SUA",
+            "page": 1
+        }, {
+            "content": "FATURA",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "PIX",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "08161480",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "MANUEL",
+            "page": 1
+        }, {
+            "content": "PASCHOAL,364",
+            "page": 1
+        }, {
+            "content": "PQ",
+            "page": 1
+        }, {
+            "content": "STA",
+            "page": 1
+        }, {
+            "content": "RITA",
+            "page": 1
+        }, {
+            "content": "SAO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "0000003580",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "435334859",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "Y16L193966",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUAE",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGE",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0,033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25.",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "966",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "982",
+            "page": 1
+        }, {
+            "content": "16",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "12,333",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "x",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0.00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "10.01",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "20.00",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "14,000",
+            "page": 1
+        }, {
+            "content": "84.00",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "14,000",
+            "page": 1
+        }, {
+            "content": "84,00",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "155,98",
+            "page": 1
+        }, {
+            "content": "155,98",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Agua",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "311,96",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão,",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "ATEND",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "ITAIM",
+            "page": 1
+        }, {
+            "content": "PAULISTA",
+            "page": 1
+        }, {
+            "content": "End.",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "TIBURCIO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SOUZA",
+            "page": 1
+        }, {
+            "content": "1085",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "AGENDE",
+            "page": 1
+        }, {
+            "content": "Seg",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sex",
+            "page": 1
+        }, {
+            "content": "SAO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "16(LG)",
+            "page": 1
+        }, {
+            "content": "15(LG)",
+            "page": 1
+        }, {
+            "content": "8(LG)",
+            "page": 1
+        }, {
+            "content": "11(LG)",
+            "page": 1
+        }, {
+            "content": "13(LG)",
+            "page": 1
+        }, {
+            "content": "12(LG)",
+            "page": 1
+        }, {
+            "content": "8h as 16h",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "313,52",
+            "page": 1
+        }, {
+            "content": "21,64",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS",
+            "page": 1
+        }, {
+            "content": "alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "246",
+            "page": 1
+        }, {
+            "content": "246",
+            "page": 1
+        }, {
+            "content": "246",
+            "page": 1
+        }, {
+            "content": "246",
+            "page": 1
+        }, {
+            "content": "246",
+            "page": 1
+        }, {
+            "content": "Análises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "274",
+            "page": 1
+        }, {
+            "content": "273",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "274",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Análises:",
+            "page": 1
+        }, {
+            "content": "Eventuais",
+            "page": 1
+        }, {
+            "content": "análises",
+            "page": 1
+        }, {
+            "content": "fora",
+            "page": 1
+        }, {
+            "content": "dos",
+            "page": 1
+        }, {
+            "content": "padrões",
+            "page": 1
+        }, {
+            "content": "foram",
+            "page": 1
+        }, {
+            "content": "refeitas",
+            "page": 1
+        }, {
+            "content": "acompanhadas",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "inspeções",
+            "page": 1
+        }, {
+            "content": "sanitárias",
+            "page": 1
+        }, {
+            "content": "descargas",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "ponto",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "coleta",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "outras",
+            "page": 1
+        }, {
+            "content": "ações",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "garantir",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "qualidade",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "ALTO",
+            "page": 1
+        }, {
+            "content": "TIETE",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "82680000003",
+            "page": 1
+        }, {
+            "content": "4",
+            "page": 1
+        }, {
+            "content": "13520097091",
+            "page": 1
+        }, {
+            "content": "5",
+            "page": 1
+        }, {
+            "content": "06791334480",
+            "page": 1
+        }, {
+            "content": "9",
+            "page": 1
+        }, {
+            "content": "00000035803",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "9106791334480",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "86040527205079",
+            "page": 1
+        }, {
+            "content": "0435334859",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "27/12/2023",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "313,52",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Sabesp:100.135.007.0152.0157.0000.000",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "155.98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "155.98",
+            "page": 1
+        }, {
+            "content": "Taxa de regulação (TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "1,56",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No. Documento",
+            "page": 1
+        }, {
+            "content": "Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$ 313.52",
+            "page": 1
+        }, {
+            "content": "86040527205079",
+            "page": 1
+        }, {
+            "content": "SOR2023120977825",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "27/12/2023",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 3159885170",
+            "page": 1
+        }, {
+            "content": "Pág. 1/1",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente: IGREJA UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE SUA FATURA COM o PIX",
+            "page": 1
+        }, {
+            "content": "CEP: 08161480",
+            "page": 1
+        }, {
+            "content": "End: RUA MANUEL PASCHOAL,364 PQ STA RITA SAO PAULO",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 0000003580",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 435334859",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: Y16L193966",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Economias: COM:",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUAE ESGOTO",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGE do mês",
+            "page": 1
+        }, {
+            "content": "Data da apresentação: 19/12/2023 Próxima Leitura: 16/01/2024 Tipo Mercado: COMUM",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0,033% ao dia",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25.",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "966",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "982",
+            "page": 1
+        }, {
+            "content": "16",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "12,333",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 x Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$) Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0.00 até 10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "De 10.01 até 20.00",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "14,000",
+            "page": 1
+        }, {
+            "content": "84.00",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "14,000",
+            "page": 1
+        }, {
+            "content": "84,00",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "155,98",
+            "page": 1
+        }, {
+            "content": "155,98",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Agua + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "311,96",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "ATEND COM ITAIM PAULISTA",
+            "page": 1
+        }, {
+            "content": "End. RUA TIBURCIO DE SOUZA 1085",
+            "page": 1
+        }, {
+            "content": "Dias e horários: AGENDE Seg a Sex SAO PAULO SÃO PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "16(LG)",
+            "page": 1
+        }, {
+            "content": "15(LG)",
+            "page": 1
+        }, {
+            "content": "8(LG)",
+            "page": 1
+        }, {
+            "content": "11(LG)",
+            "page": 1
+        }, {
+            "content": "13(LG)",
+            "page": 1
+        }, {
+            "content": "12(LG)",
+            "page": 1
+        }, {
+            "content": "8h as 16h",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "313,52",
+            "page": 1
+        }, {
+            "content": "21,64",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "246",
+            "page": 1
+        }, {
+            "content": "246",
+            "page": 1
+        }, {
+            "content": "246",
+            "page": 1
+        }, {
+            "content": "246",
+            "page": 1
+        }, {
+            "content": "246",
+            "page": 1
+        }, {
+            "content": "Análises Realizadas",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "274",
+            "page": 1
+        }, {
+            "content": "273",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "274",
+            "page": 1
+        }, {
+            "content": "275",
+            "page": 1
+        }, {
+            "content": "Conclusão das Análises: Eventuais análises fora dos padrões foram refeitas acompanhadas de inspeções sanitárias descargas do ponto de coleta e outras ações",
+            "page": 1
+        }, {
+            "content": "para garantir a qualidade de água",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: ALTO TIETE",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "82680000003 4 13520097091 5 06791334480 9 00000035803 6",
+            "page": 1
+        }, {
+            "content": "9106791334480",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "86040527205079",
+            "page": 1
+        }, {
+            "content": "0435334859",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "27/12/2023",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "313,52",
+            "page": 1
+        }, {
+            "content": "Cod. Sabesp:100.135.007.0152.0157.0000.000",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "SAO PAULO",
+            "value": "SÃO PAULO"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6,90"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "Y16L193966"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "435334859"
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "De 0.00 até",
+            "value": "10.00"
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "Sabesp:100.135.007.0152.0157.0000.000"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "155.98"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "86040527205079"
+        }, {
+            "page": 1,
+            "key": "Dias e horários:",
+            "value": "AGENDE Seg a Sex"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 313.52"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "86040527205079"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUAE ESGOTO"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGREJA UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 982"
+        }, {
+            "page": 1,
+            "key": "End.",
+            "value": "1085"
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "155.98"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "0000003580"
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023120977825"
+        }, {
+            "page": 1,
+            "key": "Taxa de regulação (TRCF) 0,50%",
+            "value": "1,56"
+        }, {
+            "page": 1,
+            "key": "Telefone:",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43,776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "COM:"
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Agua + VI Esgoto)",
+            "value": "311,96"
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": "ALTO TIETE"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "16"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "27/12/2023"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": "12,333"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "27/12/2023"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "21,64"
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "0435334859"
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "3159885170"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "155,98 155,98"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": "1/1"
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "RUA MANUEL PASCHOAL,364 PQ STA RITA SAO PAULO"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "313,52"
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 313,52"
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": "08161480 SP"
+        }, {
+            "page": 1,
+            "key": "RUA TIBURCIO DE SOUZA",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Conclusão das Análises:",
+            "value": "Eventuais análises fora dos padrões foram refeitas acompanhadas de inspeções sanitárias descargas do ponto de coleta e outras ações"
+        }, {
+            "page": 1,
+            "key": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "value": "17/06/2023 18/07/2023 17/08/2023 16/09/2023 17/10/2023 17/11/2023 16(LG) 15(LG) 8(LG) 11(LG) 13(LG) 12(LG)"
+        }, {
+            "page": 1,
+            "key": "Mínimo",
+            "value": "6"
+        }, {
+            "page": 1,
+            "key": "Sabesp",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Qualidade da Água:",
+            "value": "Decreto 5440-Anexo XX Portaria 5/17 MS alterado PRT888/21 e PRT2472/21"
+        }, {
+            "page": 1,
+            "key": "8h as 16h",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23"
+        }, {
+            "page": 1,
+            "key": "De 10.01 até",
+            "value": "20.00"
+        }, {
+            "page": 1,
+            "key": "para garantir a qualidade de",
+            "value": "água"
+        }, {
+            "page": 1,
+            "key": "Autenticação do agente",
+            "value": "autorizado"
+        }, {
+            "page": 1,
+            "key": "Tarifa (R$) Valor (R$)",
+            "value": "7,198 71,98"
+        }, {
+            "page": 1,
+            "key": "Amostras que atendem ao Padrão",
+            "value": "274 273 275 274 275"
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": "01-05-10-15-20-25."
+        }, {
+            "page": 1,
+            "key": "pela",
+            "value": ""
+        }],
+        "tables": [{
+            "headersContent": [" Leitura Anterior", "Leitura Atual ", "Consumo (M3)", "Período", "Média (M3)"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["Água:", "17/11/23", "966", "16/12/23", "982", "16", "29", "12,333"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 x Nro.Econ.)", "(M3)", "Água Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0.00 até 10.00", "Mínimo", "7,198", "71,98", "Mínimo", "7,198", "71,98"],
+                ["De 10.01 até 20.00", "6", "14,000", "84.00", "6", "14,000", "84,00"],
+                ["Subtotal  ", "155,98", "", "", "155,98"],
+                ["TOTAL (VI Agua + VI Esgoto)     ", "311,96"]
+            ],
+            "valuesSize": 4,
+            "page": 1
+        }, {
+            "headersContent": ["", "17/06/2023", "18/07/2023", "17/08/2023", "16/09/2023", "17/10/2023", "17/11/2023"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["Água:", "16(LG)", "15(LG)", "8(LG)", "11(LG)", "13(LG)", "12(LG)"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Tributos", "Alíquota(%)", "Base de Cálculo(R$)", "Valor(R$)"],
+            "headersSize": 4,
+            "valuesContent": [
+                ["PIS/PASEP E COFINS", "6,90", "313,52", "21,64"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "246", "246", "246", "246", "246"],
+                ["Análises Realizadas", "275", "275", "275", "275", "275"],
+                ["Amostras que atendem ao Padrão", "274", "273", "275", "274", "275"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["86040527205079", "0435334859", "16/12/2023", "27/12/2023", "R$ 313,52"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    },
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (6)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "G",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "regulação",
+            "page": 1
+        }, {
+            "content": "(TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "0,64",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "86040504025315",
+            "page": 1
+        }, {
+            "content": "SOR2023121297287",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "3137975010",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "1/1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGREJA",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE",
+            "page": 1
+        }, {
+            "content": "SUA",
+            "page": 1
+        }, {
+            "content": "FATURA",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "PIX",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "13990000",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "HONORIO",
+            "page": 1
+        }, {
+            "content": "SOARES,35",
+            "page": 1
+        }, {
+            "content": "-",
+            "page": 1
+        }, {
+            "content": "COMPL.A",
+            "page": 1
+        }, {
+            "content": "CENTRO",
+            "page": 1
+        }, {
+            "content": "-",
+            "page": 1
+        }, {
+            "content": "ESPIRITO",
+            "page": 1
+        }, {
+            "content": "SANTO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "PINHAL",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "616968205",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "Y12T242599",
+            "page": 1
+        }, {
+            "content": "Considerar",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "quitada",
+            "page": 1
+        }, {
+            "content": "quando",
+            "page": 1
+        }, {
+            "content": "efetuado",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "Se",
+            "page": 1
+        }, {
+            "content": "por",
+            "page": 1
+        }, {
+            "content": "algum",
+            "page": 1
+        }, {
+            "content": "motivo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "seu",
+            "page": 1
+        }, {
+            "content": "conhecimento",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "ocorrer",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUA",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "pague",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "qualquer",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGE",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0.033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "1426",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "1433",
+            "page": 1
+        }, {
+            "content": "7",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "6,75",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25.",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "x",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0.00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "129,55",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão.",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "SETOR",
+            "page": 1
+        }, {
+            "content": "ESPIRITO",
+            "page": 1
+        }, {
+            "content": "SANTO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "PINHAL",
+            "page": 1
+        }, {
+            "content": "End.",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "VIGARIO",
+            "page": 1
+        }, {
+            "content": "MONTENEGRO",
+            "page": 1
+        }, {
+            "content": "495",
+            "page": 1
+        }, {
+            "content": ":",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SEG",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "SEX.",
+            "page": 1
+        }, {
+            "content": "DAS",
+            "page": 1
+        }, {
+            "content": "ESPIRITO",
+            "page": 1
+        }, {
+            "content": "SANTO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "PINHAL",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "7(LG)",
+            "page": 1
+        }, {
+            "content": "8(LG)",
+            "page": 1
+        }, {
+            "content": "9(LG)",
+            "page": 1
+        }, {
+            "content": "09h00",
+            "page": 1
+        }, {
+            "content": "AS",
+            "page": 1
+        }, {
+            "content": "15h00",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO",
+            "page": 1
+        }, {
+            "content": "PREVIO",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6.90",
+            "page": 1
+        }, {
+            "content": "130.19",
+            "page": 1
+        }, {
+            "content": "8,99",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS,alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Análises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "037",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "037",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Análises:",
+            "page": 1
+        }, {
+            "content": "Todas",
+            "page": 1
+        }, {
+            "content": "as",
+            "page": 1
+        }, {
+            "content": "amostras",
+            "page": 1
+        }, {
+            "content": "atenderam",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "legislação",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "ESPIRITO",
+            "page": 1
+        }, {
+            "content": "SANTO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "PINHAL",
+            "page": 1
+        }, {
+            "content": "ETA",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "82610000001",
+            "page": 1
+        }, {
+            "content": "5",
+            "page": 1
+        }, {
+            "content": "30190097091",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "06792301140",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "00000035803",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "9106792301140",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "86040504025315",
+            "page": 1
+        }, {
+            "content": "0616968205",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Sabesp:530.004.005.0058.0570.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43,776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "G",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Taxa de regulação (TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "0,64",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No. Documento",
+            "page": 1
+        }, {
+            "content": "Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$ 130,19",
+            "page": 1
+        }, {
+            "content": "86040504025315",
+            "page": 1
+        }, {
+            "content": "SOR2023121297287",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 3137975010",
+            "page": 1
+        }, {
+            "content": "Pág. 1/1",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente: IGREJA UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE SUA FATURA COM o PIX",
+            "page": 1
+        }, {
+            "content": "CEP: 13990000",
+            "page": 1
+        }, {
+            "content": "End: RUA HONORIO SOARES,35 - COMPL.A CENTRO - ESPIRITO",
+            "page": 1
+        }, {
+            "content": "SANTO DO PINHAL SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 616968205",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: Y12T242599",
+            "page": 1
+        }, {
+            "content": "Considerar esta fatura quitada quando efetuado débito automático",
+            "page": 1
+        }, {
+            "content": "Se por algum motivo de seu conhecimento não ocorrer o débito",
+            "page": 1
+        }, {
+            "content": "Economias: COM: 1",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUA E ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático pague esta fatura em qualquer agente autorizado",
+            "page": 1
+        }, {
+            "content": "Data da apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023 Próxima Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024 Tipo Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGE do mês",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0.033% ao dia",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "1426",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "1433",
+            "page": 1
+        }, {
+            "content": "7",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "6,75",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25.",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 x Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0.00 até 10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Água + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "129,55",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão. Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "SETOR ESPIRITO SANTO DO PINHAL",
+            "page": 1
+        }, {
+            "content": "End. RUA VIGARIO MONTENEGRO 495 :",
+            "page": 1
+        }, {
+            "content": "Dias e horários: DE SEG A SEX. DAS ESPIRITO SANTO DO PINHAL SÃO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "6(LG)",
+            "page": 1
+        }, {
+            "content": "7(LG)",
+            "page": 1
+        }, {
+            "content": "8(LG)",
+            "page": 1
+        }, {
+            "content": "9(LG)",
+            "page": 1
+        }, {
+            "content": "09h00",
+            "page": 1
+        }, {
+            "content": "AS",
+            "page": 1
+        }, {
+            "content": "15h00",
+            "page": 1
+        }, {
+            "content": "COM PAULO",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO PREVIO",
+            "page": 1
+        }, {
+            "content": "Telefone: 0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6.90",
+            "page": 1
+        }, {
+            "content": "130.19",
+            "page": 1
+        }, {
+            "content": "8,99",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS,alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Análises Realizadas",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "037",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "037",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Conclusão das Análises: Todas as amostras atenderam a legislação",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: ESPIRITO SANTO DO PINHAL ETA",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "82610000001 5 30190097091 6 06792301140 6 00000035803 6",
+            "page": 1
+        }, {
+            "content": "9106792301140",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "86040504025315",
+            "page": 1
+        }, {
+            "content": "0616968205",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "Cod. Sabesp:530.004.005.0058.0570.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "ESPIRITO SANTO DO PINHAL",
+            "value": "SÃO"
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6.90"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "Y12T242599"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "616968205"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23 1426"
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "Conclusão das Análises:",
+            "value": "Todas as amostras atenderam a legislação"
+        }, {
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "86040504025315"
+        }, {
+            "page": 1,
+            "key": "Portaria",
+            "value": "5/17"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 130,19"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "86040504025315"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUA E ESGOTO"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGREJA UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 1433"
+        }, {
+            "page": 1,
+            "key": "End.",
+            "value": "RUA 495 :"
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "57,57"
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": "13990000"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "0000003580"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023121297287"
+        }, {
+            "page": 1,
+            "key": "Taxa de regulação (TRCF) 0,50%",
+            "value": "0,64"
+        }, {
+            "page": 1,
+            "key": "Telefone:",
+            "value": "0800-055-0195"
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43,776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "1"
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Água + VI Esgoto)",
+            "value": "129,55"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "20/01/2024"
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": "ESPIRITO SANTO DO PINHAL ETA"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "7"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "20/01/2024"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": "6,75"
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "130.19"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "8,99"
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "3137975010"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": "1/1"
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "0616968205"
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "RUA HONORIO SOARES,35 - COMPL.A CENTRO - ESPIRITO"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 130,19"
+        }, {
+            "page": 1,
+            "key": "Qualidade da Água:",
+            "value": "Decreto 5440-Anexo"
+        }, {
+            "page": 1,
+            "key": "MS,alterado pela",
+            "value": "PRT888/21 PRT2472/21"
+        }, {
+            "page": 1,
+            "key": "COM:",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "VIGARIO MONTENEGRO",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Histórico de Consumo (Data de emissão. Consumo em M3 e Tipo)",
+            "value": "17/06/2023 18/07/2023 17/08/2023 16/09/2023 17/10/2023 17/11/2023 6(LG) 5(LG) 6(LG) 7(LG) 8(LG) 9(LG)"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "57,57"
+        }, {
+            "page": 1,
+            "key": "Amostras que atendem ao Padrão",
+            "value": "036 036 037 036 036"
+        }, {
+            "page": 1,
+            "key": "Autenticação do agente",
+            "value": "autorizado"
+        }, {
+            "page": 1,
+            "key": "(M3 x Nro.Econ.)",
+            "value": "De 0.00 até 10.00"
+        }, {
+            "page": 1,
+            "key": "(M3)",
+            "value": "Mínimo"
+        }, {
+            "page": 1,
+            "key": "Sabesp",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "(M3)",
+            "value": "Mínimo"
+        }, {
+            "page": 1,
+            "key": "Dias e horários:",
+            "value": "DE SEG A SEX. 15h00"
+        }, {
+            "page": 1,
+            "key": "",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "AGENDAMENTO PREVIO",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "e",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "DÉBITO AUTOMÁTICO",
+            "value": "Considerar esta fatura quitada quando efetuado débito automático Se por algum motivo de seu conhecimento não ocorrer o débito automático pague esta fatura em qualquer agente autorizado No caso de pagamento em atraso serão cobradas Multa de 2% mais Atualização Monetária com base na variação do IPCA/IBGE do mês anterior mais Juros de Mora de 0.033% ao dia 01-05-10-15-20-25. Havendo interesse entre em contato com a Sabesp."
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "Sabesp:530.004.005.0058.0570.0000.0000"
+        }, {
+            "page": 1,
+            "key": "Tarifa (R$)",
+            "value": "7,198"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "71.98"
+        }, {
+            "page": 1,
+            "key": "Esgoto Tarifa (R$)",
+            "value": "5,757"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "57.57"
+        }],
+        "tables": [{
+            "headersContent": [" Leitura Anterior", "Leitura Atual ", "Consumo (M3)", "Período", "Média (M3)"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["Água:", "17/11/23", "1426", "16/12/23", "1433", "7", "29", "6,75"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 x Nro.Econ.)", "(M3)", "Água Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0.00 até 10.00", "Mínimo", "7,198", "71.98", "Mínimo", "5,757", "57.57"],
+                ["Subtotal", "", "", "71,98", "", "", "57,57"],
+                ["TOTAL (VI Água + VI Esgoto)     ", "129,55"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["", "17/06/2023", "18/07/2023", "17/08/2023", "16/09/2023", "17/10/2023", "17/11/2023"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["Água:", "6(LG)", "5(LG)", "6(LG)", "7(LG)", "8(LG)", "9(LG)"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "036", "036", "036", "036", "036"],
+                ["Análises Realizadas", "036", "036", "037", "036", "036"],
+                ["Amostras que atendem ao Padrão", "036", "036", "037", "036", "036"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["86040504025315", "0616968205", "16/12/2023", "20/01/2024", "R$ 130,19"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    },
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (7)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43.776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "131,62",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "104,89",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "regulação",
+            "page": 1
+        }, {
+            "content": "(TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "1,18",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "237,69",
+            "page": 1
+        }, {
+            "content": "774699922003",
+            "page": 1
+        }, {
+            "content": "SOR2023120911930",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "0774699922",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "1/1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGREJA",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE",
+            "page": 1
+        }, {
+            "content": "SUA",
+            "page": 1
+        }, {
+            "content": "FATURA",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "PIX",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "12414020",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "AVENIDA",
+            "page": 1
+        }, {
+            "content": "GASTAO",
+            "page": 1
+        }, {
+            "content": "VIDIGAL",
+            "page": 1
+        }, {
+            "content": "NETO,750",
+            "page": 1
+        }, {
+            "content": "CIDADE",
+            "page": 1
+        }, {
+            "content": "NOVA-",
+            "page": 1
+        }, {
+            "content": "PINDAMONHANGABA-",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "774699922",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "A18L198550",
+            "page": 1
+        }, {
+            "content": "Considerar",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "quitada",
+            "page": 1
+        }, {
+            "content": "quando",
+            "page": 1
+        }, {
+            "content": "efetuado",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "Se",
+            "page": 1
+        }, {
+            "content": "por",
+            "page": 1
+        }, {
+            "content": "algum",
+            "page": 1
+        }, {
+            "content": "motivo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "seu",
+            "page": 1
+        }, {
+            "content": "conhecimento",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "ocorrer",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUAE",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "pague",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "qualquer",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGE",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0.033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "453",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "470",
+            "page": 1
+        }, {
+            "content": "17",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "10,667",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "X",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10,00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "10,01",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "20,00",
+            "page": 1
+        }, {
+            "content": "7",
+            "page": 1
+        }, {
+            "content": "8,520",
+            "page": 1
+        }, {
+            "content": "59.64",
+            "page": 1
+        }, {
+            "content": "7",
+            "page": 1
+        }, {
+            "content": "6,760",
+            "page": 1
+        }, {
+            "content": "47,32",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "131,62",
+            "page": 1
+        }, {
+            "content": "104,89",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "236,51",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão,",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "AGÊNCIA",
+            "page": 1
+        }, {
+            "content": "PINDAMONHANGABA",
+            "page": 1
+        }, {
+            "content": "End.",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "CAPITAO",
+            "page": 1
+        }, {
+            "content": "ALFREDO",
+            "page": 1
+        }, {
+            "content": "CESAR",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SEG",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "SEX,",
+            "page": 1
+        }, {
+            "content": "DAS",
+            "page": 1
+        }, {
+            "content": "200",
+            "page": 1
+        }, {
+            "content": "PINDAMONHANGABA",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "10(LG)",
+            "page": 1
+        }, {
+            "content": "9(LG)",
+            "page": 1
+        }, {
+            "content": "7(LG)",
+            "page": 1
+        }, {
+            "content": "21(LG)",
+            "page": 1
+        }, {
+            "content": "12(LG)",
+            "page": 1
+        }, {
+            "content": "08H",
+            "page": 1
+        }, {
+            "content": "AS",
+            "page": 1
+        }, {
+            "content": "16H",
+            "page": 1
+        }, {
+            "content": "AGENDE",
+            "page": 1
+        }, {
+            "content": "SEU",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "0800-055-0195",
+            "page": 1
+        }, {
+            "content": "ATENDIMENTO",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6.90",
+            "page": 1
+        }, {
+            "content": "237.69",
+            "page": 1
+        }, {
+            "content": "16,41",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS.alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "123",
+            "page": 1
+        }, {
+            "content": "123",
+            "page": 1
+        }, {
+            "content": "123",
+            "page": 1
+        }, {
+            "content": "123",
+            "page": 1
+        }, {
+            "content": "123",
+            "page": 1
+        }, {
+            "content": "Análises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "118",
+            "page": 1
+        }, {
+            "content": "110",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Analises:",
+            "page": 1
+        }, {
+            "content": "Eventuais",
+            "page": 1
+        }, {
+            "content": "análises",
+            "page": 1
+        }, {
+            "content": "fora",
+            "page": 1
+        }, {
+            "content": "dos",
+            "page": 1
+        }, {
+            "content": "padrões",
+            "page": 1
+        }, {
+            "content": "foram",
+            "page": 1
+        }, {
+            "content": "refeitas",
+            "page": 1
+        }, {
+            "content": "acompanhadas",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "inspeções",
+            "page": 1
+        }, {
+            "content": "sanitárias",
+            "page": 1
+        }, {
+            "content": "descargas",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "ponto",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "coleta",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "outras",
+            "page": 1
+        }, {
+            "content": "ações",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "garantir",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "qualidade",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "PINDAMONHANGABA",
+            "page": 1
+        }, {
+            "content": "ETA",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "82630000002",
+            "page": 1
+        }, {
+            "content": "1",
+            "page": 1
+        }, {
+            "content": "37690097091",
+            "page": 1
+        }, {
+            "content": "8",
+            "page": 1
+        }, {
+            "content": "06789388216",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "00000035803",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "9106789388216",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "774699922003",
+            "page": 1
+        }, {
+            "content": "0774699922",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "237,69",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Sabesp:528.013.003.0911.4400.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43.776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "131,62",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "104,89",
+            "page": 1
+        }, {
+            "content": "Taxa de regulação (TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "1,18",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No. Documento",
+            "page": 1
+        }, {
+            "content": "Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$ 237,69",
+            "page": 1
+        }, {
+            "content": "774699922003",
+            "page": 1
+        }, {
+            "content": "SOR2023120911930",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 0774699922",
+            "page": 1
+        }, {
+            "content": "Pág. 1/1",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente: IGREJA UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE SUA FATURA COM o PIX",
+            "page": 1
+        }, {
+            "content": "CEP: 12414020 End: AVENIDA GASTAO VIDIGAL NETO,750 CIDADE NOVA-",
+            "page": 1
+        }, {
+            "content": "PINDAMONHANGABA- SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 774699922",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: A18L198550",
+            "page": 1
+        }, {
+            "content": "Considerar esta fatura quitada quando efetuado débito automático",
+            "page": 1
+        }, {
+            "content": "Se por algum motivo de seu conhecimento não ocorrer o débito",
+            "page": 1
+        }, {
+            "content": "Economias: COM:",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUAE ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático pague esta fatura em qualquer agente autorizado",
+            "page": 1
+        }, {
+            "content": "Data da apresentação: 19/12/2023 Próxima Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGE do mês",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0.033% ao dia",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "453",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "470",
+            "page": 1
+        }, {
+            "content": "17",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "10,667",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 X Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0,00 até 10,00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "De 10,01 até 20,00",
+            "page": 1
+        }, {
+            "content": "7",
+            "page": 1
+        }, {
+            "content": "8,520",
+            "page": 1
+        }, {
+            "content": "59.64",
+            "page": 1
+        }, {
+            "content": "7",
+            "page": 1
+        }, {
+            "content": "6,760",
+            "page": 1
+        }, {
+            "content": "47,32",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "131,62",
+            "page": 1
+        }, {
+            "content": "104,89",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Água + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "236,51",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "AGÊNCIA PINDAMONHANGABA",
+            "page": 1
+        }, {
+            "content": "End. RUA CAPITAO ALFREDO CESAR",
+            "page": 1
+        }, {
+            "content": "Dias e horários: DE SEG A SEX, DAS 200 PINDAMONHANGABA SÃO PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "5(LG)",
+            "page": 1
+        }, {
+            "content": "10(LG)",
+            "page": 1
+        }, {
+            "content": "9(LG)",
+            "page": 1
+        }, {
+            "content": "7(LG)",
+            "page": 1
+        }, {
+            "content": "21(LG)",
+            "page": 1
+        }, {
+            "content": "12(LG)",
+            "page": 1
+        }, {
+            "content": "08H AS 16H AGENDE SEU Telefone: 0800-055-0195",
+            "page": 1
+        }, {
+            "content": "ATENDIMENTO",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6.90",
+            "page": 1
+        }, {
+            "content": "237.69",
+            "page": 1
+        }, {
+            "content": "16,41",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS.alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "123",
+            "page": 1
+        }, {
+            "content": "123",
+            "page": 1
+        }, {
+            "content": "123",
+            "page": 1
+        }, {
+            "content": "123",
+            "page": 1
+        }, {
+            "content": "123",
+            "page": 1
+        }, {
+            "content": "Análises Realizadas",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "118",
+            "page": 1
+        }, {
+            "content": "110",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "124",
+            "page": 1
+        }, {
+            "content": "Conclusão das Analises: Eventuais análises fora dos padrões foram refeitas acompanhadas de inspeções sanitárias descargas do ponto de coleta e outras ações",
+            "page": 1
+        }, {
+            "content": "para garantir a qualidade de água",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: PINDAMONHANGABA ETA",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "82630000002 1 37690097091 8 06789388216 6 00000035803 6",
+            "page": 1
+        }, {
+            "content": "9106789388216",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "774699922003",
+            "page": 1
+        }, {
+            "content": "0774699922",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "10/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "237,69",
+            "page": 1
+        }, {
+            "content": "Cod. Sabesp:528.013.003.0911.4400.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "End.",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 237,69"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "A18L198550"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "774699922"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023120911930"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23 453"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "16,41"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "131,62"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "774699922003"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Água + VI Esgoto)",
+            "value": "236,51"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 237,69"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "774699922003"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUAE ESGOTO"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGREJA UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "131,62 104,89"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "0000003580"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 470"
+        }, {
+            "page": 1,
+            "key": "200",
+            "value": "PINDAMONHANGABA"
+        }, {
+            "page": 1,
+            "key": "Telefone:",
+            "value": "0800-055-0195"
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "104,89"
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": "12414020"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "237.69"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Taxa de regulação (TRCF) 0,50%",
+            "value": "1,18"
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43.776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "COM:"
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Conclusão das Analises:",
+            "value": "Eventuais análises fora dos padrões foram refeitas acompanhadas de inspeções sanitárias descargas do ponto de coleta e outras ações"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "17"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": "10,667"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6.90"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "10/01/2024"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "0774699922"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": "1/1"
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "0774699922"
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "AVENIDA GASTAO VIDIGAL NETO,750 CIDADE NOVA- SP"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "10/01/2024"
+        }, {
+            "page": 1,
+            "key": "MS.alterado pela",
+            "value": "PRT888/21"
+        }, {
+            "page": 1,
+            "key": "RUA CAPITAO ALFREDO CESAR",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "e",
+            "value": "PRT2472/21"
+        }, {
+            "page": 1,
+            "key": "SÃO PAULO",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Amostras que atendem ao Padrão",
+            "value": "118 110 124 124"
+        }, {
+            "page": 1,
+            "key": "(M3 X Nro.Econ.)",
+            "value": "De 0,00 até 10,00 10,01 até 20,00"
+        }, {
+            "page": 1,
+            "key": "De",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Análises Realizadas",
+            "value": "124 124 124 124 124"
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": "ETA"
+        }, {
+            "page": 1,
+            "key": "Sabesp",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Turbidez",
+            "value": "Cor Cloro Coli. Totais Escherichia Coli."
+        }, {
+            "page": 1,
+            "key": "16/09/2023",
+            "value": "7(LG)"
+        }, {
+            "page": 1,
+            "key": "08H AS",
+            "value": "16H AGENDE"
+        }, {
+            "page": 1,
+            "key": "Dias e horários:",
+            "value": "DE SEG A SEX, DAS"
+        }, {
+            "page": 1,
+            "key": "DÉBITO AUTOMÁTICO",
+            "value": "Considerar esta fatura quitada quando efetuado débito automático Se por algum motivo de seu conhecimento não ocorrer o débito automático pague esta fatura em qualquer agente autorizado No caso de pagamento em atraso serão cobradas Multa de 2% mais Atualização Monetária com base na variação do IPCA/IBGE do mês anterior mais Juros de Mora de 0.033% ao dia 01-05-10-15-20-25 Havendo interesse entre em contato com a Sabesp."
+        }, {
+            "page": 1,
+            "key": "(M3)",
+            "value": "7"
+        }, {
+            "page": 1,
+            "key": "Autenticação do agente",
+            "value": "autorizado"
+        }, {
+            "page": 1,
+            "key": "18/07/2023",
+            "value": "10(LG)"
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "Sabesp:528.013.003.0911.4400.0000.0000"
+        }, {
+            "page": 1,
+            "key": "17/08/2023",
+            "value": "9(LG)"
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": ""
+        }],
+        "tables": [{
+            "headersContent": ["Leitura Anterior", "Leitura Atual", "Consumo (M3)", "Período", "Média (M3)"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["17/11/23", "453", "16/12/23 470", "17", "29", "10,667"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 X Nro.Econ.)", "(M3)", "Água Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0,00 até 10,00", "Mínimo", "7,198", "71.98", "Mínimo", "5,757", "57.57"],
+                ["De 10,01 até 20,00", "7", "8,520", "59.64", "7", "6,760", "47,32"],
+                ["Subtotal  ", "131,62", "", "", "104,89"],
+                ["TOTAL (VI Água + VI Esgoto)     ", "236,51"]
+            ],
+            "valuesSize": 4,
+            "page": 1
+        }, {
+            "headersContent": ["     ", "", " "],
+            "headersSize": 3,
+            "valuesContent": [
+                ["Água:", "17/06/2023 5(LG)", "18/07/2023 10(LG)", "17/08/2023 9(LG)", "16/09/2023 7(LG)", "17/10/2023 21(LG)", "17/11/2023 12(LG)", "AGÊNCIA PINDAMONHANGABA Dias e horários: DE SEG A SEX, DAS 08H AS 16H AGENDE SEU ATENDIMENTO", "End. RUA CAPITAO ALFREDO CESAR 200 PINDAMONHANGABA SÃO PAULO Telefone: 0800-055-0195"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "123", "123", "123", "123", "123"],
+                ["Análises Realizadas", "124", "124", "124", "124", "124"],
+                ["Amostras que atendem ao Padrão", "118", "110", "124", "124", "124"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["774699922003", "0774699922", "16/12/2023", "10/01/2024", "R$ 237,69"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    },
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (8)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43.776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "113,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "113,98",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "regulação",
+            "page": 1
+        }, {
+            "content": "(TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "1,14",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "Crédito:",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "555,46",
+            "page": 1
+        }, {
+            "content": "Débito:",
+            "page": 1
+        }, {
+            "content": "326,36",
+            "page": 1
+        }, {
+            "content": "191048550001",
+            "page": 1
+        }, {
+            "content": "SOR2023121011077",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "0191048550",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "1/1",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGREJA",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "04937050",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "GUILHERME",
+            "page": 1
+        }, {
+            "content": "ESPINDOLA",
+            "page": 1
+        }, {
+            "content": "PEQUITO,215",
+            "page": 1
+        }, {
+            "content": "JD",
+            "page": 1
+        }, {
+            "content": "PLANALTO",
+            "page": 1
+        }, {
+            "content": "SAO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "0000003580",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "191048550",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "Y19L413912",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUAE",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "Considerar",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "quitada",
+            "page": 1
+        }, {
+            "content": "quando",
+            "page": 1
+        }, {
+            "content": "efetuado",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "Se",
+            "page": 1
+        }, {
+            "content": "por",
+            "page": 1
+        }, {
+            "content": "algum",
+            "page": 1
+        }, {
+            "content": "motivo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "seu",
+            "page": 1
+        }, {
+            "content": "conhecimento",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "ocorrer",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "pague",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "qualquer",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGE",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "926",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "939",
+            "page": 1
+        }, {
+            "content": "13",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "13,833",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0.033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "x",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7.198",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7.198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "10.01",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "20.00",
+            "page": 1
+        }, {
+            "content": "3",
+            "page": 1
+        }, {
+            "content": "14,000",
+            "page": 1
+        }, {
+            "content": "42.00",
+            "page": 1
+        }, {
+            "content": "3",
+            "page": 1
+        }, {
+            "content": "14.000",
+            "page": 1
+        }, {
+            "content": "42.00",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "113,98",
+            "page": 1
+        }, {
+            "content": "113,98",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "227,96",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão,",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "AGENCIA",
+            "page": 1
+        }, {
+            "content": "COMERCI",
+            "page": 1
+        }, {
+            "content": "M",
+            "page": 1
+        }, {
+            "content": "BOI",
+            "page": 1
+        }, {
+            "content": "MIRIM",
+            "page": 1
+        }, {
+            "content": "End.:",
+            "page": 1
+        }, {
+            "content": "ESTRADA",
+            "page": 1
+        }, {
+            "content": "M",
+            "page": 1
+        }, {
+            "content": "BOI",
+            "page": 1
+        }, {
+            "content": "MIRIM",
+            "page": 1
+        }, {
+            "content": "4059",
+            "page": 1
+        }, {
+            "content": "SAC",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "AGENDAR",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SEG",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "16(LG)",
+            "page": 1
+        }, {
+            "content": "14(LG)",
+            "page": 1
+        }, {
+            "content": "22(LG)",
+            "page": 1
+        }, {
+            "content": "13(LG)",
+            "page": 1
+        }, {
+            "content": "11(LG)",
+            "page": 1
+        }, {
+            "content": "8(LG)",
+            "page": 1
+        }, {
+            "content": "SEX",
+            "page": 1
+        }, {
+            "content": "DAS",
+            "page": 1
+        }, {
+            "content": "08H",
+            "page": 1
+        }, {
+            "content": "AS",
+            "page": 1
+        }, {
+            "content": "16H",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Crédito",
+            "page": 1
+        }, {
+            "content": "no",
+            "page": 1
+        }, {
+            "content": "valor",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "555.46",
+            "page": 1
+        }, {
+            "content": "referente",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês/ano",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "Débito",
+            "page": 1
+        }, {
+            "content": "no",
+            "page": 1
+        }, {
+            "content": "valor",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "326.36",
+            "page": 1
+        }, {
+            "content": "referente",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês/ano",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "Saldo",
+            "page": 1
+        }, {
+            "content": "no",
+            "page": 1
+        }, {
+            "content": "valor",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "326.36",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "ser",
+            "page": 1
+        }, {
+            "content": "creditado",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "fatura(s)",
+            "page": 1
+        }, {
+            "content": "subsequente(s).",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6.90",
+            "page": 1
+        }, {
+            "content": "229.10",
+            "page": 1
+        }, {
+            "content": "15,81",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS.alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "337",
+            "page": 1
+        }, {
+            "content": "337",
+            "page": 1
+        }, {
+            "content": "337",
+            "page": 1
+        }, {
+            "content": "337",
+            "page": 1
+        }, {
+            "content": "337",
+            "page": 1
+        }, {
+            "content": "Análises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "347",
+            "page": 1
+        }, {
+            "content": "348",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Análises:",
+            "page": 1
+        }, {
+            "content": "Eventuais",
+            "page": 1
+        }, {
+            "content": "análises",
+            "page": 1
+        }, {
+            "content": "fora",
+            "page": 1
+        }, {
+            "content": "dos",
+            "page": 1
+        }, {
+            "content": "padrões",
+            "page": 1
+        }, {
+            "content": "foram",
+            "page": 1
+        }, {
+            "content": "refeitas",
+            "page": 1
+        }, {
+            "content": "acompanhadas",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "inspeções",
+            "page": 1
+        }, {
+            "content": "sanitárias",
+            "page": 1
+        }, {
+            "content": "descargas",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "ponto",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "coleta",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "outras",
+            "page": 1
+        }, {
+            "content": "ações",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "garantir",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "qualidade",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "GUARAPIRANGA",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "9106788547267",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "191048550001",
+            "page": 1
+        }, {
+            "content": "0191048550",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Sabesp:100.165.077.0033.0161.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43.776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "113,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "113,98",
+            "page": 1
+        }, {
+            "content": "Taxa de regulação (TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "1,14",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "Crédito:",
+            "page": 1
+        }, {
+            "content": "No. Documento",
+            "page": 1
+        }, {
+            "content": "Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "555,46",
+            "page": 1
+        }, {
+            "content": "Débito:",
+            "page": 1
+        }, {
+            "content": "326,36",
+            "page": 1
+        }, {
+            "content": "191048550001",
+            "page": 1
+        }, {
+            "content": "SOR2023121011077",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 0191048550",
+            "page": 1
+        }, {
+            "content": "Pág. 1/1",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "Cliente: IGREJA UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "CEP: 04937050",
+            "page": 1
+        }, {
+            "content": "End: RUA GUILHERME ESPINDOLA PEQUITO,215 JD PLANALTO",
+            "page": 1
+        }, {
+            "content": "SAO PAULO SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 0000003580",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 191048550",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: Y19L413912",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Economias: COM:",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUAE ESGOTO",
+            "page": 1
+        }, {
+            "content": "Considerar esta fatura quitada quando efetuado débito automático",
+            "page": 1
+        }, {
+            "content": "Data da apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023 Próxima Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024 Tipo Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "Se por algum motivo de seu conhecimento não ocorrer o débito",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "automático pague esta fatura em qualquer agente autorizado",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGE do mês",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "926",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "939",
+            "page": 1
+        }, {
+            "content": "13",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": "13,833",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0.033% ao dia",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 x Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0,00 até 10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7.198",
+            "page": 1
+        }, {
+            "content": "71.98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7.198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "De 10.01 até 20.00",
+            "page": 1
+        }, {
+            "content": "3",
+            "page": 1
+        }, {
+            "content": "14,000",
+            "page": 1
+        }, {
+            "content": "42.00",
+            "page": 1
+        }, {
+            "content": "3",
+            "page": 1
+        }, {
+            "content": "14.000",
+            "page": 1
+        }, {
+            "content": "42.00",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "113,98",
+            "page": 1
+        }, {
+            "content": "113,98",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Água + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "227,96",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "AGENCIA COMERCI M BOI MIRIM",
+            "page": 1
+        }, {
+            "content": "End.: ESTRADA M BOI MIRIM 4059 SAC",
+            "page": 1
+        }, {
+            "content": "Dias e horários: AGENDAR DE SEG A",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "16(LG)",
+            "page": 1
+        }, {
+            "content": "14(LG)",
+            "page": 1
+        }, {
+            "content": "22(LG)",
+            "page": 1
+        }, {
+            "content": "13(LG)",
+            "page": 1
+        }, {
+            "content": "11(LG)",
+            "page": 1
+        }, {
+            "content": "8(LG)",
+            "page": 1
+        }, {
+            "content": "SEX DAS 08H AS 16H",
+            "page": 1
+        }, {
+            "content": "Telefone: 0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Crédito no valor de R$ 555.46 referente a fatura do mês/ano de emissão 11/2023",
+            "page": 1
+        }, {
+            "content": "Débito no valor de R$ 326.36 referente a fatura do mês/ano de emissão 11/2023",
+            "page": 1
+        }, {
+            "content": "Saldo no valor de R$ 326.36 a ser creditado em fatura(s) subsequente(s).",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6.90",
+            "page": 1
+        }, {
+            "content": "229.10",
+            "page": 1
+        }, {
+            "content": "15,81",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS.alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "337",
+            "page": 1
+        }, {
+            "content": "337",
+            "page": 1
+        }, {
+            "content": "337",
+            "page": 1
+        }, {
+            "content": "337",
+            "page": 1
+        }, {
+            "content": "337",
+            "page": 1
+        }, {
+            "content": "Análises Realizadas",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "347",
+            "page": 1
+        }, {
+            "content": "348",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "349",
+            "page": 1
+        }, {
+            "content": "Conclusão das Análises: Eventuais análises fora dos padrões foram refeitas acompanhadas de inspeções sanitárias descargas do ponto de coleta e outras ações",
+            "page": 1
+        }, {
+            "content": "para garantir a qualidade de água",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: GUARAPIRANGA",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "9106788547267",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "191048550001",
+            "page": 1
+        }, {
+            "content": "0191048550",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "20/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "0,00",
+            "page": 1
+        }, {
+            "content": "Cod. Sabesp:100.165.077.0033.0161.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "Y19L413912"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6.90"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "191048550"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Água + VI Esgoto)",
+            "value": "227,96"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "113,98"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "191048550001"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 0,00"
+        }, {
+            "page": 1,
+            "key": "Conclusão das Análises:",
+            "value": "Eventuais análises fora dos padrões foram refeitas acompanhadas de inspeções sanitárias descargas do ponto de coleta e outras ações"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "113,98 113,98"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "191048550001"
+        }, {
+            "page": 1,
+            "key": "Débito:",
+            "value": "326,36"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUAE ESGOTO"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "20/01/2024"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGREJA UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "0191048550"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "0000003580"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 939"
+        }, {
+            "page": 1,
+            "key": "PAULO",
+            "value": "SÃO PAULO"
+        }, {
+            "page": 1,
+            "key": "Telefone:",
+            "value": "0800-055-0195"
+        }, {
+            "page": 1,
+            "key": "",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "0191048550"
+        }, {
+            "page": 1,
+            "key": "Débito no valor de R$ 326.36 referente a fatura do mês/ano de emissão",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "15,81"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "Crédito no valor de R$ 555.46 referente a fatura do mês/ano de emissão",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "Crédito:",
+            "value": "555,46"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023121011077"
+        }, {
+            "page": 1,
+            "key": "Taxa de regulação (TRCF) 0,50%",
+            "value": "1,14"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "20/01/2024"
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43.776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Dias e horários:",
+            "value": "AGENDAR DE SEG A"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "COM:"
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "Sabesp:100.165.077.0033.0161.0000.0000"
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "229.10"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "13"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": "13,833"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 0,00"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "113,98"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": "1/1"
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "RUA GUILHERME ESPINDOLA PEQUITO,215 JD PLANALTO"
+        }, {
+            "page": 1,
+            "key": "Portaria 5/17 MS.alterado pela",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "ESTRADA M BOI MIRIM",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": "04937050 SAO PAULO SP"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "value": "17/06/2023 18/07/2023 17/08/2023 16/09/2023 17/10/2023 17/11/2023 16(LG) 14(LG) 22(LG) 13(LG) 11(LG) 8(LG)"
+        }, {
+            "page": 1,
+            "key": "Amostras que atendem ao Padrão",
+            "value": "347 348 349 349 349"
+        }, {
+            "page": 1,
+            "key": "Água",
+            "value": "7.198 71.98"
+        }, {
+            "page": 1,
+            "key": "Turbidez",
+            "value": "Cor Cloro Escherichia Coli."
+        }, {
+            "page": 1,
+            "key": "DÉBITO AUTOMÁTICO",
+            "value": "Considerar esta fatura quitada quando efetuado débito automático Se por algum motivo de seu conhecimento não ocorrer o débito automático pague esta fatura em qualquer agente autorizado No caso de pagamento em atraso serão cobradas Multa de 2% mais Atualização Monetária com base na variação do IPCA/IBGE do mês anterior mais Juros de Mora de 0.033% ao dia 01-05-10-15-20-25 Havendo interesse entre em contato com a Sabesp."
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "End.:",
+            "value": "4059 SAC"
+        }, {
+            "page": 1,
+            "key": "De",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23"
+        }, {
+            "page": 1,
+            "key": "Autenticação do agente",
+            "value": "autorizado"
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Coli. Totais",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "(M3 x Nro.Econ.)",
+            "value": "De 0,00 até 10.00 10.01 até 20.00"
+        }, {
+            "page": 1,
+            "key": "Qualidade da Água:",
+            "value": "Decreto 5440-Anexo XX PRT888/21 e PRT2472/21"
+        }, {
+            "page": 1,
+            "key": "para garantir a qualidade de água",
+            "value": "GUARAPIRANGA"
+        }],
+        "tables": [{
+            "headersContent": ["Água:", "113,98"],
+            "headersSize": 2,
+            "valuesContent": [
+                ["Esgoto:", "113,98"],
+                ["Taxa de regulação (TRCF) 0,50%", "1,14"],
+                ["Crédito:", "555,46"],
+                ["Débito:", "326,36"],
+                ["TOTAL:", "R$ 0,00"],
+                ["VENCIMENTO:", "20/01/2024"]
+            ],
+            "valuesSize": 6,
+            "page": 1
+        }, {
+            "headersContent": [" Leitura Anterior", "Leitura Atual ", "Consumo (M3)", "Período", "Média (M3)"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["Água:", "17/11/23", "926", "16/12/23", "939", "13", "29", "13,833"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 x Nro.Econ.)", "(M3)", "Água Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0,00 até 10.00", "Mínimo", "7.198", "71.98", "Mínimo", "7.198", "71,98"],
+                ["De 10.01 até 20.00", "3", "14,000", "42.00", "3", "14.000", "42.00"],
+                ["Subtotal  ", "113,98", "", "", "113,98"],
+                ["TOTAL (VI Água + VI Esgoto)     ", "227,96"]
+            ],
+            "valuesSize": 4,
+            "page": 1
+        }, {
+            "headersContent": ["Água:", "17/06/2023 16(LG)", "18/07/2023 14(LG)", "17/08/2023 22(LG)", "16/09/2023 13(LG)", "17/10/2023 11(LG)", "17/11/2023 8(LG)", "AGENCIA COMERCI M BOI MIRIM Dias e horários: AGENDAR DE SEG A SEX DAS 08H AS 16H", "End.: ESTRADA M BOI MIRIM 4059 SAC PAULO SÃO PAULO Telefone: 0800-055-0195"],
+            "headersSize": 9,
+            "valuesContent": [],
+            "valuesSize": 0,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "337", "337", "337", "337", "337"],
+                ["Análises Realizadas", "349", "349", "349", "349", "349"],
+                ["Amostras que atendem ao Padrão", "347", "348", "349", "349", "349"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["191048550001", "0191048550", "16/12/2023", "20/01/2024", "R$ 0,00"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    },
+    "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (9)_unlocked.pdf": {
+        "words": [{
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Serviços",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "e/ou",
+            "page": 1
+        }, {
+            "content": "Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ",
+            "page": 1
+        }, {
+            "content": "43.776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Saneamento",
+            "page": 1
+        }, {
+            "content": "Basico",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "Estado",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Taxa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "regulação",
+            "page": 1
+        }, {
+            "content": "(TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "0,64",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No.",
+            "page": 1
+        }, {
+            "content": "Documento",
+            "page": 1
+        }, {
+            "content": "Fatura",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "DATA",
+            "page": 1
+        }, {
+            "content": "EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "356238539002",
+            "page": 1
+        }, {
+            "content": "SOR2023120874889",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "Código",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático:",
+            "page": 1
+        }, {
+            "content": "0356238539",
+            "page": 1
+        }, {
+            "content": "Pág.",
+            "page": 1
+        }, {
+            "content": "1/1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente:",
+            "page": 1
+        }, {
+            "content": "IGREJA",
+            "page": 1
+        }, {
+            "content": "UNIVERSAL",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "REINO",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE",
+            "page": 1
+        }, {
+            "content": "SUA",
+            "page": 1
+        }, {
+            "content": "FATURA",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "PIX",
+            "page": 1
+        }, {
+            "content": "CEP:",
+            "page": 1
+        }, {
+            "content": "13990000",
+            "page": 1
+        }, {
+            "content": "End:",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "HONORIO",
+            "page": 1
+        }, {
+            "content": "SOARES,35",
+            "page": 1
+        }, {
+            "content": "CENTRO",
+            "page": 1
+        }, {
+            "content": "-",
+            "page": 1
+        }, {
+            "content": "ESPIRITO",
+            "page": 1
+        }, {
+            "content": "SANTO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "PINHAL",
+            "page": 1
+        }, {
+            "content": "SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente:",
+            "page": 1
+        }, {
+            "content": "0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi:",
+            "page": 1
+        }, {
+            "content": "356238539",
+            "page": 1
+        }, {
+            "content": "Hidrômetro:",
+            "page": 1
+        }, {
+            "content": "Y13T699252",
+            "page": 1
+        }, {
+            "content": "Considerar",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "quitada",
+            "page": 1
+        }, {
+            "content": "quando",
+            "page": 1
+        }, {
+            "content": "efetuado",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "Se",
+            "page": 1
+        }, {
+            "content": "por",
+            "page": 1
+        }, {
+            "content": "algum",
+            "page": 1
+        }, {
+            "content": "motivo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "seu",
+            "page": 1
+        }, {
+            "content": "conhecimento",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "ocorrer",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "débito",
+            "page": 1
+        }, {
+            "content": "Economias:",
+            "page": 1
+        }, {
+            "content": "COM:",
+            "page": 1
+        }, {
+            "content": "1",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Ligação",
+            "page": 1
+        }, {
+            "content": "(TL):",
+            "page": 1
+        }, {
+            "content": "ÁGUA",
+            "page": 1
+        }, {
+            "content": "ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático",
+            "page": 1
+        }, {
+            "content": "pague",
+            "page": 1
+        }, {
+            "content": "esta",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "qualquer",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "apresentação:",
+            "page": 1
+        }, {
+            "content": "19/12/2023",
+            "page": 1
+        }, {
+            "content": "Próxima",
+            "page": 1
+        }, {
+            "content": "Leitura:",
+            "page": 1
+        }, {
+            "content": "16/01/2024",
+            "page": 1
+        }, {
+            "content": "Tipo",
+            "page": 1
+        }, {
+            "content": "Mercado:",
+            "page": 1
+        }, {
+            "content": "COMUM",
+            "page": 1
+        }, {
+            "content": "No",
+            "page": 1
+        }, {
+            "content": "caso",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "pagamento",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "atraso",
+            "page": 1
+        }, {
+            "content": "serão",
+            "page": 1
+        }, {
+            "content": "cobradas",
+            "page": 1
+        }, {
+            "content": "Multa",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "2%",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Condição",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "LEITURA",
+            "page": 1
+        }, {
+            "content": "NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização",
+            "page": 1
+        }, {
+            "content": "Monetária",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "base",
+            "page": 1
+        }, {
+            "content": "na",
+            "page": 1
+        }, {
+            "content": "variação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "IPCA/IBGE",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "mês",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura",
+            "page": 1
+        }, {
+            "content": "Atual",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "anterior",
+            "page": 1
+        }, {
+            "content": "mais",
+            "page": 1
+        }, {
+            "content": "Juros",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Mora",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "0,033%",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "dia",
+            "page": 1
+        }, {
+            "content": "Média",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "190",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "190",
+            "page": 1
+        }, {
+            "content": "0",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": ".5",
+            "page": 1
+        }, {
+            "content": "*Oferecemos",
+            "page": 1
+        }, {
+            "content": "datas",
+            "page": 1
+        }, {
+            "content": "opcionais",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "para",
+            "page": 1
+        }, {
+            "content": "sua",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo",
+            "page": 1
+        }, {
+            "content": "interesse",
+            "page": 1
+        }, {
+            "content": "entre",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "contato",
+            "page": 1
+        }, {
+            "content": "com",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3",
+            "page": 1
+        }, {
+            "content": "x",
+            "page": 1
+        }, {
+            "content": "Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "Valor",
+            "page": 1
+        }, {
+            "content": "(R$)",
+            "page": 1
+        }, {
+            "content": "De",
+            "page": 1
+        }, {
+            "content": "0.00",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "TOTAL",
+            "page": 1
+        }, {
+            "content": "(VI",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "+",
+            "page": 1
+        }, {
+            "content": "VI",
+            "page": 1
+        }, {
+            "content": "Esgoto)",
+            "page": 1
+        }, {
+            "content": "129,55",
+            "page": 1
+        }, {
+            "content": "Histórico",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "(Data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "emissão,",
+            "page": 1
+        }, {
+            "content": "Consumo",
+            "page": 1
+        }, {
+            "content": "em",
+            "page": 1
+        }, {
+            "content": "M3",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "SETOR",
+            "page": 1
+        }, {
+            "content": "ESPIRITO",
+            "page": 1
+        }, {
+            "content": "SANTO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "PINHAL",
+            "page": 1
+        }, {
+            "content": "End.:",
+            "page": 1
+        }, {
+            "content": "RUA",
+            "page": 1
+        }, {
+            "content": "VIGARIO",
+            "page": 1
+        }, {
+            "content": "MONTENEGRO",
+            "page": 1
+        }, {
+            "content": "495",
+            "page": 1
+        }, {
+            "content": "Dias",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "horários:",
+            "page": 1
+        }, {
+            "content": "DE",
+            "page": 1
+        }, {
+            "content": "SEG",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "SEX.",
+            "page": 1
+        }, {
+            "content": "DAS",
+            "page": 1
+        }, {
+            "content": "ESPIRITO",
+            "page": 1
+        }, {
+            "content": "SANTO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "PINHAL",
+            "page": 1
+        }, {
+            "content": "SÃO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "2(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "1(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "09h00",
+            "page": 1
+        }, {
+            "content": "AS",
+            "page": 1
+        }, {
+            "content": "15h00",
+            "page": 1
+        }, {
+            "content": "COM",
+            "page": 1
+        }, {
+            "content": "PAULO",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO",
+            "page": 1
+        }, {
+            "content": "PREVIO",
+            "page": 1
+        }, {
+            "content": "Telefone:",
+            "page": 1
+        }, {
+            "content": "0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A",
+            "page": 1
+        }, {
+            "content": "fatura",
+            "page": 1
+        }, {
+            "content": "não",
+            "page": 1
+        }, {
+            "content": "paga",
+            "page": 1
+        }, {
+            "content": "até",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "data",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "vencimento",
+            "page": 1
+        }, {
+            "content": "sujeita",
+            "page": 1
+        }, {
+            "content": "o",
+            "page": 1
+        }, {
+            "content": "fomecimento",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "corte",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP",
+            "page": 1
+        }, {
+            "content": "E",
+            "page": 1
+        }, {
+            "content": "COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "8,99",
+            "page": 1
+        }, {
+            "content": "Qualidade",
+            "page": 1
+        }, {
+            "content": "da",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "Decreto",
+            "page": 1
+        }, {
+            "content": "5440-Anexo",
+            "page": 1
+        }, {
+            "content": "XX",
+            "page": 1
+        }, {
+            "content": "Portaria",
+            "page": 1
+        }, {
+            "content": "5/17",
+            "page": 1
+        }, {
+            "content": "MS",
+            "page": 1
+        }, {
+            "content": "alterado",
+            "page": 1
+        }, {
+            "content": "pela",
+            "page": 1
+        }, {
+            "content": "PRT888/21",
+            "page": 1
+        }, {
+            "content": "e",
+            "page": 1
+        }, {
+            "content": "PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia",
+            "page": 1
+        }, {
+            "content": "Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "Exigido",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Análises",
+            "page": 1
+        }, {
+            "content": "Realizadas",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "037",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "que",
+            "page": 1
+        }, {
+            "content": "atendem",
+            "page": 1
+        }, {
+            "content": "ao",
+            "page": 1
+        }, {
+            "content": "Padrão",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "037",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Conclusão",
+            "page": 1
+        }, {
+            "content": "das",
+            "page": 1
+        }, {
+            "content": "Análises:",
+            "page": 1
+        }, {
+            "content": "Todas",
+            "page": 1
+        }, {
+            "content": "as",
+            "page": 1
+        }, {
+            "content": "amostras",
+            "page": 1
+        }, {
+            "content": "atenderam",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "legislação",
+            "page": 1
+        }, {
+            "content": "Sistema",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "Abastecimento:",
+            "page": 1
+        }, {
+            "content": "ESPIRITO",
+            "page": 1
+        }, {
+            "content": "SANTO",
+            "page": 1
+        }, {
+            "content": "DO",
+            "page": 1
+        }, {
+            "content": "PINHAL",
+            "page": 1
+        }, {
+            "content": "ETA",
+            "page": 1
+        }, {
+            "content": "Amostras",
+            "page": 1
+        }, {
+            "content": "coletadas",
+            "page": 1
+        }, {
+            "content": "em:",
+            "page": 1
+        }, {
+            "content": "11/2023",
+            "page": 1
+        }, {
+            "content": "82660000001",
+            "page": 1
+        }, {
+            "content": "0",
+            "page": 1
+        }, {
+            "content": "30190097091",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "06789653995",
+            "page": 1
+        }, {
+            "content": "3",
+            "page": 1
+        }, {
+            "content": "00000035803",
+            "page": 1
+        }, {
+            "content": "6",
+            "page": 1
+        }, {
+            "content": "9106789653995",
+            "page": 1
+        }, {
+            "content": "VIA",
+            "page": 1
+        }, {
+            "content": "SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO:",
+            "page": 1
+        }, {
+            "content": "Não",
+            "page": 1
+        }, {
+            "content": "danifique",
+            "page": 1
+        }, {
+            "content": "a",
+            "page": 1
+        }, {
+            "content": "região",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "código",
+            "page": 1
+        }, {
+            "content": "de",
+            "page": 1
+        }, {
+            "content": "barras.",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data",
+            "page": 1
+        }, {
+            "content": "Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "356238539002",
+            "page": 1
+        }, {
+            "content": "0356238539",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "Cod.",
+            "page": 1
+        }, {
+            "content": "Sabesp:530.004.005.0058.0580.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO",
+            "page": 1
+        }, {
+            "content": "AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação",
+            "page": 1
+        }, {
+            "content": "do",
+            "page": 1
+        }, {
+            "content": "agente",
+            "page": 1
+        }, {
+            "content": "autorizado",
+            "page": 1
+        }],
+        "lines": [{
+            "content": "Fatura de Serviços de Água e/ou Esgotos",
+            "page": 1
+        }, {
+            "content": "CNPJ 43.776.517/0001-80",
+            "page": 1
+        }, {
+            "content": "Cia de Saneamento Basico do Estado de S.P.",
+            "page": 1
+        }, {
+            "content": "S",
+            "page": 1
+        }, {
+            "content": "DISCRIMINAÇÃO DO FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Sabesp",
+            "page": 1
+        }, {
+            "content": "sabesp",
+            "page": 1
+        }, {
+            "content": "Esgoto:",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "Taxa de regulação (TRCF)",
+            "page": 1
+        }, {
+            "content": "0,50%",
+            "page": 1
+        }, {
+            "content": "0,64",
+            "page": 1
+        }, {
+            "content": "Fornecimento",
+            "page": 1
+        }, {
+            "content": "No. Documento",
+            "page": 1
+        }, {
+            "content": "Fatura Tipo",
+            "page": 1
+        }, {
+            "content": "DATA EMISSÃO",
+            "page": 1
+        }, {
+            "content": "FATURAMENTO",
+            "page": 1
+        }, {
+            "content": "TOTAL:",
+            "page": 1
+        }, {
+            "content": "R$ 130,19",
+            "page": 1
+        }, {
+            "content": "356238539002",
+            "page": 1
+        }, {
+            "content": "SOR2023120874889",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "VENCIMENTO:",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "Código para débito automático: 0356238539",
+            "page": 1
+        }, {
+            "content": "Pág. 1/1",
+            "page": 1
+        }, {
+            "content": "Tipo de Fornecimento:",
+            "page": 1
+        }, {
+            "content": "COMERCIAL",
+            "page": 1
+        }, {
+            "content": "Cliente: IGREJA UNIVERSAL DO REINO DE DEUS",
+            "page": 1
+        }, {
+            "content": "PAGUE SUA FATURA COM o PIX",
+            "page": 1
+        }, {
+            "content": "CEP: 13990000",
+            "page": 1
+        }, {
+            "content": "End: RUA HONORIO SOARES,35 CENTRO - ESPIRITO SANTO DO",
+            "page": 1
+        }, {
+            "content": "PINHAL SP",
+            "page": 1
+        }, {
+            "content": "Cód.Cliente: 0000003580",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Pde/Rgi: 356238539",
+            "page": 1
+        }, {
+            "content": "Hidrômetro: Y13T699252",
+            "page": 1
+        }, {
+            "content": "Considerar esta fatura quitada quando efetuado débito automático",
+            "page": 1
+        }, {
+            "content": "Se por algum motivo de seu conhecimento não ocorrer o débito",
+            "page": 1
+        }, {
+            "content": "Economias: COM: 1",
+            "page": 1
+        }, {
+            "content": "Tipo de Ligação (TL): ÁGUA ESGOTO",
+            "page": 1
+        }, {
+            "content": "automático pague esta fatura em qualquer agente autorizado",
+            "page": 1
+        }, {
+            "content": "Data da apresentação: 19/12/2023 Próxima Leitura: 16/01/2024 Tipo Mercado: COMUM",
+            "page": 1
+        }, {
+            "content": "No caso de pagamento em atraso serão cobradas Multa de 2% mais",
+            "page": 1
+        }, {
+            "content": "Condição de Leitura LEITURA NORMAL",
+            "page": 1
+        }, {
+            "content": "Atualização Monetária com base na variação do IPCA/IBGE do mês",
+            "page": 1
+        }, {
+            "content": "Leitura Anterior",
+            "page": 1
+        }, {
+            "content": "Leitura Atual",
+            "page": 1
+        }, {
+            "content": "Consumo (M3)",
+            "page": 1
+        }, {
+            "content": "Período",
+            "page": 1
+        }, {
+            "content": "anterior mais Juros de Mora de 0,033% ao dia",
+            "page": 1
+        }, {
+            "content": "Média (M3)",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "17/11/23",
+            "page": 1
+        }, {
+            "content": "190",
+            "page": 1
+        }, {
+            "content": "16/12/23",
+            "page": 1
+        }, {
+            "content": "190",
+            "page": 1
+        }, {
+            "content": "0",
+            "page": 1
+        }, {
+            "content": "29",
+            "page": 1
+        }, {
+            "content": ".5",
+            "page": 1
+        }, {
+            "content": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "page": 1
+        }, {
+            "content": "01-05-10-15-20-25",
+            "page": 1
+        }, {
+            "content": "Havendo interesse entre em contato com a Sabesp.",
+            "page": 1
+        }, {
+            "content": "Água",
+            "page": 1
+        }, {
+            "content": "Esgoto",
+            "page": 1
+        }, {
+            "content": "(M3 x Nro.Econ.)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "(M3)",
+            "page": 1
+        }, {
+            "content": "Tarifa (R$)",
+            "page": 1
+        }, {
+            "content": "Valor (R$)",
+            "page": 1
+        }, {
+            "content": "De 0.00 até 10.00",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "7,198",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "Mínimo",
+            "page": 1
+        }, {
+            "content": "5,757",
+            "page": 1
+        }, {
+            "content": "57.57",
+            "page": 1
+        }, {
+            "content": "Subtotal",
+            "page": 1
+        }, {
+            "content": "71,98",
+            "page": 1
+        }, {
+            "content": "57,57",
+            "page": 1
+        }, {
+            "content": "TOTAL (VI Água + VI Esgoto)",
+            "page": 1
+        }, {
+            "content": "129,55",
+            "page": 1
+        }, {
+            "content": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "page": 1
+        }, {
+            "content": "Atendimento Sabesp",
+            "page": 1
+        }, {
+            "content": "17/06/2023",
+            "page": 1
+        }, {
+            "content": "18/07/2023",
+            "page": 1
+        }, {
+            "content": "17/08/2023",
+            "page": 1
+        }, {
+            "content": "16/09/2023",
+            "page": 1
+        }, {
+            "content": "17/10/2023",
+            "page": 1
+        }, {
+            "content": "17/11/2023",
+            "page": 1
+        }, {
+            "content": "SETOR ESPIRITO SANTO DO PINHAL End.: RUA VIGARIO MONTENEGRO 495",
+            "page": 1
+        }, {
+            "content": "Dias e horários: DE SEG A SEX. DAS ESPIRITO SANTO DO PINHAL SÃO",
+            "page": 1
+        }, {
+            "content": "Água:",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "2(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "1(LG)",
+            "page": 1
+        }, {
+            "content": "0(LG)",
+            "page": 1
+        }, {
+            "content": "09h00 AS 15h00 COM PAULO",
+            "page": 1
+        }, {
+            "content": "AGENDAMENTO PREVIO",
+            "page": 1
+        }, {
+            "content": "Telefone: 0800-055-0195",
+            "page": 1
+        }, {
+            "content": "AVISOS",
+            "page": 1
+        }, {
+            "content": "A fatura não paga até a data de vencimento sujeita o fomecimento ao corte de água",
+            "page": 1
+        }, {
+            "content": "Tributos",
+            "page": 1
+        }, {
+            "content": "Alíquota(%)",
+            "page": 1
+        }, {
+            "content": "Base de Cálculo(R$)",
+            "page": 1
+        }, {
+            "content": "Valor(R$)",
+            "page": 1
+        }, {
+            "content": "PIS/PASEP E COFINS",
+            "page": 1
+        }, {
+            "content": "6,90",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "8,99",
+            "page": 1
+        }, {
+            "content": "Qualidade da Água: Decreto 5440-Anexo XX Portaria 5/17 MS alterado pela PRT888/21 e PRT2472/21",
+            "page": 1
+        }, {
+            "content": "Parâmetros",
+            "page": 1
+        }, {
+            "content": "Turbidez",
+            "page": 1
+        }, {
+            "content": "Cor",
+            "page": 1
+        }, {
+            "content": "Cloro",
+            "page": 1
+        }, {
+            "content": "Coli. Totais",
+            "page": 1
+        }, {
+            "content": "Escherichia Coli.",
+            "page": 1
+        }, {
+            "content": "Mínimo Exigido",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Análises Realizadas",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "037",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Amostras que atendem ao Padrão",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "037",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "036",
+            "page": 1
+        }, {
+            "content": "Conclusão das Análises: Todas as amostras atenderam a legislação",
+            "page": 1
+        }, {
+            "content": "Sistema de Abastecimento: ESPIRITO SANTO DO PINHAL ETA",
+            "page": 1
+        }, {
+            "content": "Amostras coletadas em: 11/2023",
+            "page": 1
+        }, {
+            "content": "82660000001 0 30190097091 6 06789653995 3 00000035803 6",
+            "page": 1
+        }, {
+            "content": "9106789653995",
+            "page": 1
+        }, {
+            "content": "VIA SABESP",
+            "page": 1
+        }, {
+            "content": "ATENÇÃO: Não danifique a região do código de barras.",
+            "page": 1
+        }, {
+            "content": "Cod. Fornecimento",
+            "page": 1
+        }, {
+            "content": "PDE/RGI",
+            "page": 1
+        }, {
+            "content": "Data Emissão",
+            "page": 1
+        }, {
+            "content": "Vencimento",
+            "page": 1
+        }, {
+            "content": "Total",
+            "page": 1
+        }, {
+            "content": "356238539002",
+            "page": 1
+        }, {
+            "content": "0356238539",
+            "page": 1
+        }, {
+            "content": "16/12/2023",
+            "page": 1
+        }, {
+            "content": "05/01/2024",
+            "page": 1
+        }, {
+            "content": "R$",
+            "page": 1
+        }, {
+            "content": "130,19",
+            "page": 1
+        }, {
+            "content": "Cod. Sabesp:530.004.005.0058.0580.0000.0000",
+            "page": 1
+        }, {
+            "content": "DÉBITO AUTOMÁTICO",
+            "page": 1
+        }, {
+            "content": "Autenticação do agente autorizado",
+            "page": 1
+        }],
+        "queries": [],
+        "forms": [{
+            "page": 1,
+            "key": "Taxa de regulação (TRCF)",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Data da apresentação:",
+            "value": "19/12/2023"
+        }, {
+            "page": 1,
+            "key": "ESPIRITO SANTO DO PINHAL",
+            "value": "SÃO"
+        }, {
+            "page": 1,
+            "key": "Total",
+            "value": "R$ 130,19"
+        }, {
+            "page": 1,
+            "key": "Conclusão das Análises:",
+            "value": "Todas as amostras atenderam a legislação"
+        }, {
+            "page": 1,
+            "key": "Alíquota(%)",
+            "value": "6,90"
+        }, {
+            "page": 1,
+            "key": "Hidrômetro:",
+            "value": "Y13T699252"
+        }, {
+            "page": 1,
+            "key": "Pde/Rgi:",
+            "value": "356238539"
+        }, {
+            "page": 1,
+            "key": "ATENÇÃO:",
+            "value": "Não danifique a região do código de barras."
+        }, {
+            "page": 1,
+            "key": "Cod.",
+            "value": "Sabesp:530.004.005.0058.0580.0000.0000"
+        }, {
+            "page": 1,
+            "key": "Condição de Leitura",
+            "value": "LEITURA NORMAL"
+        }, {
+            "page": 1,
+            "key": "Água:",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "Fornecimento",
+            "value": "356238539002"
+        }, {
+            "page": 1,
+            "key": "TOTAL:",
+            "value": "R$ 130,19"
+        }, {
+            "page": 1,
+            "key": "Cod. Fornecimento",
+            "value": "356238539002"
+        }, {
+            "page": 1,
+            "key": "Tipo de Ligação (TL):",
+            "value": "ÁGUA ESGOTO"
+        }, {
+            "page": 1,
+            "key": "Cliente:",
+            "value": "IGREJA UNIVERSAL DO REINO DE DEUS"
+        }, {
+            "page": 1,
+            "key": "Leitura Atual",
+            "value": "16/12/23 190"
+        }, {
+            "page": 1,
+            "key": "Telefone:",
+            "value": "0800-055-0195"
+        }, {
+            "page": 1,
+            "key": "End.:",
+            "value": "495"
+        }, {
+            "page": 1,
+            "key": "Esgoto:",
+            "value": "57,57"
+        }, {
+            "page": 1,
+            "key": "Data Emissão",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "Tipo Mercado:",
+            "value": "COMUM"
+        }, {
+            "page": 1,
+            "key": "Cód.Cliente:",
+            "value": "0000003580"
+        }, {
+            "page": 1,
+            "key": "DATA EMISSÃO",
+            "value": "16/12/2023"
+        }, {
+            "page": 1,
+            "key": "No. Documento",
+            "value": "SOR2023120874889"
+        }, {
+            "page": 1,
+            "key": "0,50%",
+            "value": "0,64"
+        }, {
+            "page": 1,
+            "key": "CNPJ",
+            "value": "43.776.517/0001-80"
+        }, {
+            "page": 1,
+            "key": "Fatura Tipo",
+            "value": "FATURAMENTO"
+        }, {
+            "page": 1,
+            "key": "Período",
+            "value": "29"
+        }, {
+            "page": 1,
+            "key": "Economias:",
+            "value": "COM: 1"
+        }, {
+            "page": 1,
+            "key": "Tipo de Fornecimento:",
+            "value": "COMERCIAL"
+        }, {
+            "page": 1,
+            "key": "TOTAL (VI Água + VI Esgoto)",
+            "value": "129,55"
+        }, {
+            "page": 1,
+            "key": "Sistema de Abastecimento:",
+            "value": "ESPIRITO SANTO DO PINHAL ETA"
+        }, {
+            "page": 1,
+            "key": "Consumo (M3)",
+            "value": "0"
+        }, {
+            "page": 1,
+            "key": "Vencimento",
+            "value": "05/01/2024"
+        }, {
+            "page": 1,
+            "key": "Média (M3)",
+            "value": ".5"
+        }, {
+            "page": 1,
+            "key": "VENCIMENTO:",
+            "value": "05/01/2024"
+        }, {
+            "page": 1,
+            "key": "Base de Cálculo(R$)",
+            "value": "130,19"
+        }, {
+            "page": 1,
+            "key": "Valor(R$)",
+            "value": "8,99"
+        }, {
+            "page": 1,
+            "key": "Código para débito automático:",
+            "value": "0356238539"
+        }, {
+            "page": 1,
+            "key": "Pág.",
+            "value": "1/1"
+        }, {
+            "page": 1,
+            "key": "PDE/RGI",
+            "value": "0356238539"
+        }, {
+            "page": 1,
+            "key": "End:",
+            "value": "RUA HONORIO SOARES,35 CENTRO - ESPIRITO SANTO DO"
+        }, {
+            "page": 1,
+            "key": "Amostras coletadas em:",
+            "value": "11/2023"
+        }, {
+            "page": 1,
+            "key": "Tributos",
+            "value": "PIS/PASEP E COFINS"
+        }, {
+            "page": 1,
+            "key": "Subtotal",
+            "value": "71,98 57,57"
+        }, {
+            "page": 1,
+            "key": "CEP:",
+            "value": "13990000 PINHAL SP"
+        }, {
+            "page": 1,
+            "key": "Próxima Leitura:",
+            "value": "16/01/2024"
+        }, {
+            "page": 1,
+            "key": "MS alterado pela",
+            "value": "PRT888/21"
+        }, {
+            "page": 1,
+            "key": "RUA VIGARIO MONTENEGRO",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)",
+            "value": "17/06/2023 18/07/2023 17/08/2023 16/09/2023 17/10/2023 17/11/2023 0(LG) 2(LG) 0(LG) 0(LG) 1(LG) 0(LG)"
+        }, {
+            "page": 1,
+            "key": "Análises Realizadas",
+            "value": "036 036 037 036 036"
+        }, {
+            "page": 1,
+            "key": "Leitura Anterior",
+            "value": "17/11/23"
+        }, {
+            "page": 1,
+            "key": "Autenticação do agente",
+            "value": "autorizado"
+        }, {
+            "page": 1,
+            "key": "Sabesp",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "09h00",
+            "value": "AS 15h00"
+        }, {
+            "page": 1,
+            "key": "Coli. Totais",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Dias e horários:",
+            "value": "DE SEG A SEX."
+        }, {
+            "page": 1,
+            "key": "DÉBITO AUTOMÁTICO",
+            "value": "Considerar esta fatura quitada quando efetuado débito automático Se por algum motivo de seu conhecimento não ocorrer o débito automático pague esta fatura em qualquer agente autorizado No caso de pagamento em atraso serão cobradas Multa de 2% mais Atualização Monetária com base na variação do IPCA/IBGE do mês anterior mais Juros de Mora de 0,033% ao dia 01-05-10-15-20-25 Havendo interesse entre em contato com a Sabesp."
+        }, {
+            "page": 1,
+            "key": "(M3 x Nro.Econ.)",
+            "value": "De 0.00 até 10.00"
+        }, {
+            "page": 1,
+            "key": "Tarifa (R$)",
+            "value": "7,198"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "71,98"
+        }, {
+            "page": 1,
+            "key": "Esgoto (M3) Tarifa (R$) Mínimo 5,757",
+            "value": ""
+        }, {
+            "page": 1,
+            "key": "Amostras que atendem ao Padrão",
+            "value": "036 036 037 036 036"
+        }, {
+            "page": 1,
+            "key": "Valor (R$)",
+            "value": "57.57"
+        }, {
+            "page": 1,
+            "key": "Portaria",
+            "value": "5/17"
+        }, {
+            "page": 1,
+            "key": "Turbidez",
+            "value": "Cor Cloro Escherichia Coli."
+        }, {
+            "page": 1,
+            "key": "*Oferecemos datas opcionais de vencimento para sua fatura",
+            "value": ""
+        }],
+        "tables": [{
+            "headersContent": [" Leitura Anterior ", "Leitura Atual ", "Consumo (M3)", "Período", "Média (M3)"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["Água:", "17/11/23", "190", "16/12/23", "190", "0", "29", ".5"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["(M3 x Nro.Econ.)", "(M3)", "Água Tarifa (R$)", "Valor (R$)", "(M3)", "Esgoto Tarifa (R$)", "Valor (R$)"],
+            "headersSize": 7,
+            "valuesContent": [
+                ["De 0.00 até 10.00", "Mínimo", "7,198", "71,98", "Mínimo", "5,757", "57.57"],
+                ["Subtotal  ", "71,98", "", "", "57,57"],
+                ["TOTAL (VI Água + VI Esgoto)     ", "129,55"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Histórico de Consumo (Data de emissão, Consumo em M3 e Tipo)  ", "Atendimento Sabesp "],
+            "headersSize": 2,
+            "valuesContent": [
+                ["Água:", "17/06/2023 0(LG)", "18/07/2023 2(LG)", "17/08/2023 0(LG)", "16/09/2023 0(LG)", "17/10/2023 1(LG)", "17/11/2023 0(LG)", "SETOR ESPIRITO SANTO DO PINHAL Dias e horários: DE SEG A SEX. DAS 09h00 AS 15h00 COM AGENDAMENTO PREVIO", "End.: RUA VIGARIO MONTENEGRO 495 ESPIRITO SANTO DO PINHAL SÃO PAULO Telefone: 0800-055-0195"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Tributos", "Alíquota(%)", "Base de Cálculo(R$)", "Valor(R$)"],
+            "headersSize": 4,
+            "valuesContent": [
+                ["PIS/PASEP E COFINS", "6,90", "130,19", "8,99"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }, {
+            "headersContent": ["Parâmetros", "Turbidez", "Cor", "Cloro", "Coli. Totais", "Escherichia Coli."],
+            "headersSize": 6,
+            "valuesContent": [
+                ["Mínimo Exigido", "036", "036", "036", "036", "036"],
+                ["Análises Realizadas", "036", "036", "037", "036", "036"],
+                ["Amostras que atendem ao Padrão", "036", "036", "037", "036", "036"]
+            ],
+            "valuesSize": 3,
+            "page": 1
+        }, {
+            "headersContent": ["Cod. Fornecimento", "PDE/RGI", "Data Emissão", "Vencimento", "Total"],
+            "headersSize": 5,
+            "valuesContent": [
+                ["356238539002", "0356238539", "16/12/2023", "05/01/2024", "R$ 130,19"]
+            ],
+            "valuesSize": 1,
+            "page": 1
+        }]
+    }
+}
+
+function dadosNota(pdfData) {
+
+    const trataPonto = (valor) => {
+        //console.log(valor)
+        const valorSplitado = new String(valor).split(/(\.|\,){1}/);
+        const valorFiltrado = valorSplitado.filter((e) => { return /\d/.test(e); })
+        let ultimo = valorFiltrado.pop();
+        let valorTratado = `${valorFiltrado.join('')},${ultimo}`;
+        return valorTratado;
+    };
+    const verificaSeNaoNumero = (valor) => {
+        const regex = /(^(\d){1,}(.|,))*(\d){1,3}(.|,)(\d){2}/;
+        if (!regex.test(valor)) {
+          //console.log('Não é um número');
+          return true;
+        } else {
+          return false;
+        }
+    };
+    const somaComVirgula = (valor1, valor2) => {
+        if (isNaN(Number(parseFloat(valor1))) || isNaN(Number(parseFloat(valor2)))) {
+            console.log('falsooo')
+            return false;
+        }
+        console.log('valor 1',valor1)
+        console.log('valor 2',valor2)
+        // Transforma as strings em números, efetua a soma e arredonda para duas casas decimais
+        const soma = [valor1, valor2].map(x => parseFloat(x.replace(',', '.'))).reduce((a, b) => a + b).toFixed(2);
+    
+        const valorSoma = trataPonto(soma);
+        if (valorSoma !== null && valorSoma !== undefined) {
+            return valorSoma;
+        } else {
+            return false;
+        }
+    };
+    const subComVirgula = (valor1, valor2) => {
+        // Verifica se os valores são números válidos
+        if (isNaN(Number(parseFloat(valor1))) || isNaN(Number(parseFloat(valor2)))) return false;
+    
+        // Transforma as strings em números, efetua a subtração e arredonda para duas casas decimais
+        const resultado = (parseFloat(valor1.replace(/\./g, '').replace(',', '.')) - parseFloat(valor2.replace(/\./g, '').replace(',', '.'))).toFixed(2);
+    
+        const valorSubtracao = trataPonto(resultado);
+    
+        if (valorSubtracao != null || valorSubtracao != undefined) {
+            return valorSubtracao;
+        } else {
+            return false;
+        }
+    };
+    const subtrairValoresFloat = (valor1, valor2) => {
+        let valor1Tratado = valor1?.replace(',', '');
+        //console.log(valor1)
+        //console.log(valor2)
+        let valor2Tratado = valor2?.replace(',', '');
+        let total =`${Number(valor1Tratado) - Number(valor2Tratado)}`;
+        let totalSplitado = total.split('');
+        let centavos = totalSplitado.splice(total.length - 2, total.length);
+
+        return `${totalSplitado.join('')},${centavos.join('')}`
+    };
+    const somarValoresFloat = (valor1, valor2) => {
+        // console.log(`valor`,valor1)
+        // console.log(`valor`,valor2)
+        let valor1Tratado = valor1.replace(',', '');
+        let valor2Tratado = valor2.replace(',', '');
+        let total = `${Number(valor1Tratado) + Number(valor2Tratado)}`;
+        let totalSplitado = total.split('');
+        let centavos = totalSplitado.splice(total.length - 2, total.length);
+
+        return `${totalSplitado.join('')},${centavos.join('')}`;
+    };
+    const getVencimento = (pdf) => {
+    // Percorra todas as linhas e encontre e exiba todas as datas no formato "DD/MM/AAAA" (insensível a maiúsculas/minúsculas)
+    const regexData = /(\d{2}\/\d{2}\/\d{4})/gi;
+    const datasEncontradas = [];
+  
+    for (const linha of pdf.lines) {
+      const conteudoDaLinha = linha.content;
+      const datasEncontradasNaLinha = conteudoDaLinha.match(regexData);
+  
+      if (datasEncontradasNaLinha) {
+        datasEncontradas.push(...datasEncontradasNaLinha);
+      }
+    }
+  
+    // Verifique se há pelo menos 3 datas no array e retorne a terceira data (índice 2)
+    if (datasEncontradas.length >= 3) {
+      //console.log(datasEncontradas)
+      return datasEncontradas[1];
+    }
+  
+    return false;
+    }; // certo ===
+    const getDataDeEmissao = (pdf) => {
+       // Percorra todas as linhas e encontre e exiba todas as datas no formato "DD/MM/AAAA" (insensível a maiúsculas/minúsculas)
+       const regexData = /(\d{2}\/\d{2}\/\d{4})/gi;
+       const datasEncontradas = [];
+     
+       for (const linha of pdf.lines) {
+         const conteudoDaLinha = linha.content;
+         const datasEncontradasNaLinha = conteudoDaLinha.match(regexData);
+     
+         if (datasEncontradasNaLinha) {
+           datasEncontradas.push(...datasEncontradasNaLinha);
+         }
+       }
+     
+       // Verifique se há pelo menos 3 datas no array e retorne a terceira data (índice 2)
+       if (datasEncontradas.length >= 3) {
+        //  console.log(datasEncontradas)
+         return datasEncontradas[0];
+       }
+     
+       return false;
+    }; // certo no lines ===
+    const getContaReferenteA = (pdf, vlrDataDeEmissao) => {
+
+        const valor = vlrDataDeEmissao
+        // console.log(`Valor encontrado: ${valor}`);
+    
+        const partes = valor.split(/[ /.]+/);
+        // console.log(`Partes após a divisão: ${partes}`);
+
+        const dia = '01'; // Padroniza o dia para 01
+        let mes = partes[1]
+        const ano = partes[2];
+        const dataFormatada = `${dia}/${mes}/${ano}`;
+        // console.log(`Data formatada: ${dataFormatada}`);
+        return dataFormatada;
+    }; // certo formatando do vlrDataEmissao ===
+    const getConsumoDoMes = (pdf) => {        
+    const regexProcurado = /Água:/i
+    let encontrouContador = 0;
+    let i = 0;
+
+    while (i < pdf.lines.length) {
+        const line = pdf.lines[i];
+        const lineContent = line.content;
+        const lineMatches = lineContent.match(regexProcurado);
+
+        if (lineMatches && lineMatches.length > 0) {
+            encontrouContador++;
+
+            if (encontrouContador === 2) {
+                const indexProximo = i + 5;
+                const dados = pdf.lines[indexProximo]?.content.trim();
+                return dados || false;
+            }
+        }
+
+        i++;
+    }
+
+    return false;
+    }; // validado por lines contador 2 e indice 5  ====
+    const getLeituraAtual = (pdf) => {
+            // Percorra todas as linhas e encontre e exiba todas as datas no formato "DD/MM/AAAA" (insensível a maiúsculas/minúsculas)
+            const regexData = /(\d{2}\/\d{2}\/\d{4})/gi;
+            const datasEncontradas = [];
+          
+            for (const linha of pdf.lines) {
+              const conteudoDaLinha = linha.content;
+              const datasEncontradasNaLinha = conteudoDaLinha.match(regexData);
+          
+              if (datasEncontradasNaLinha) {
+                datasEncontradas.push(...datasEncontradasNaLinha);
+              }
+            }
+          
+            // Verifique se há pelo menos 3 datas no array e retorne a terceira data (índice 2)
+            if (datasEncontradas.length >= 3) {
+              //console.log(datasEncontradas)
+              return datasEncontradas[10];
+            }
+          
+            return false;
+    }; // pronto certo line ===
+    const getLeituraAnterior =  (pdf) => {
+        // Percorra todas as linhas e encontre e exiba todas as datas no formato "DD/MM/AAAA" (insensível a maiúsculas/minúsculas)
+        const regexData = /(\d{2}\/\d{2}\/\d{4})/gi;
+        const datasEncontradas = [];
+      
+        for (const linha of pdf.lines) {
+          const conteudoDaLinha = linha.content;
+          const datasEncontradasNaLinha = conteudoDaLinha.match(regexData);
+      
+          if (datasEncontradasNaLinha) {
+            datasEncontradas.push(...datasEncontradasNaLinha);
+          }
+        }
+      
+        // Verifique se há pelo menos 3 datas no array e retorne a terceira data (índice 2)
+        if (datasEncontradas.length >= 3) {
+          //console.log(datasEncontradas)
+          return datasEncontradas[9];
+        }
+      
+        return false;
+    }; // pronto certo line ===
+    const getValorLeituraAtual = (pdf, vlrLeituraAtual) => {
+        const regexProcurado = /Água:/i
+        let encontrouContador = 0;
+        let i = 0;
+    
+        while (i < pdf.lines.length) {
+            const line = pdf.lines[i];
+            const lineContent = line.content;
+            const lineMatches = lineContent.match(regexProcurado);
+    
+            if (lineMatches && lineMatches.length > 0) {
+                encontrouContador++;
+    
+                if (encontrouContador === 2) {
+                    const indexProximo = i + 2;
+                    const dados = pdf.lines[indexProximo]?.content.trim();
+                    return dados || false;
+                }
+            }
+    
+            i++;
+        }
+    
+        return false;
+    }; // validado por lines contador 2 e indice 2  ====
+    const getValorLeituraAnterior = (pdf) => {
+        const regexProcurado = /Água:/i
+        let encontrouContador = 0;
+        let i = 0;
+    
+        while (i < pdf.lines.length) {
+            const line = pdf.lines[i];
+            const lineContent = line.content;
+            const lineMatches = lineContent.match(regexProcurado);
+    
+            if (lineMatches && lineMatches.length > 0) {
+                encontrouContador++;
+    
+                if (encontrouContador === 2) {
+                    const indexProximo = i + 4;
+                    const dados = pdf.lines[indexProximo]?.content.trim();
+                    return dados || false;
+                }
+            }
+    
+            i++;
+        }
+    
+        return false;
+    }; // validado por lines contador 2 e indice 4  ====
+    const getProximaLeitura = (pdf) => {
+     // Percorra todas as linhas e encontre e exiba todas as datas no formato "DD/MM/AAAA" (insensível a maiúsculas/minúsculas)
+    const regexData = /(\d{2}\/\d{2}\/\d{4})/gi;
+    const datasEncontradas = [];
+  
+    for (const linha of pdf.lines) {
+      const conteudoDaLinha = linha.content;
+      const datasEncontradasNaLinha = conteudoDaLinha.match(regexData);
+  
+      if (datasEncontradasNaLinha) {
+        datasEncontradas.push(...datasEncontradasNaLinha);
+      }
+    }
+  
+    // Verifique se há pelo menos 3 datas no array e retorne a terceira data (índice 2)
+    if (datasEncontradas.length >= 3) {
+      //console.log(datasEncontradas)
+      return datasEncontradas[3];
+    }
+    return false;
+    };
+    const getMultas = (pdf) => { // Multa - Obs: Caso venha negativo retornar como excecao 
+        const targetKeyword = "Multa";
+        let valoresMultas = [];
+    
+        for (const table of pdf.tables) {
+            const rows = table.valuesContent.filter((row) => row.some((cell) => cell.includes(targetKeyword)));
+    
+            for (const row of rows) {
+                let valor = row[1];
+                if (valor) {
+                    // Adiciona zeros à direita para manter três casas decimais
+                    valor = valor.replace(/,/g, '.');
+                    const partes = valor.split('.');
+                    if (partes.length === 1) {
+                        valor = partes[0] + '.000';
+                    } else if (partes[1].length === 1) {
+                        valor = partes[0] + '.' + partes[1] + '00';
+                    } else if (partes[1].length === 2) {
+                        valor = partes[0] + '.' + partes[1] + '0';
+                    } else {
+                        valor = partes[0] + '.' + partes[1];
+                    }
+    
+                    valor = parseFloat(valor);
+                    valoresMultas.push(valor);
+                }
+            }
+        }
+    //     if (valoresMultas.length > 0) {
+    //         // Remova os sinais negativos dos valores
+    //         const valoresSemSinalNegativo = valoresMultas.map((valor) => Math.abs(valor));
+    //         // Some os valores absolutos
+    //         const somaValoresEncontrados = valoresSemSinalNegativo.reduce((total, valor) => total + valor, 0);
+    //         // Formate o resultado com três casas decimais
+    //         const fixandoValores = somaValoresEncontrados.toFixed(2)
+    //         const dadosTratados = trataPonto(fixandoValores)
+    //         return dadosTratados
+    //     }
+  
+    //     return false;
+    // }; //
+
+    if (valoresMultas.length > 0) {
+        // Inicializa variável para armazenar o sinal
+        let sinal = 1;
+        // Mapeia os valores, guarda o sinal e converte para valores absolutos
+        const valoresAbsolutos = valoresMultas.map((valor) => {
+            if (valor < 0) {
+                sinal = -1;  // Guarda o sinal negativo
+            }
+            return Math.abs(valor);
+        });
+        // Soma os valores absolutos
+        const somaValoresEncontrados = valoresAbsolutos.reduce((total, valor) => total + valor, 0);
+        // Aplica o sinal ao resultado final
+        const resultadoFinal = somaValoresEncontrados * sinal;
+        // Formate o resultado com três casas decimais
+        const fixandoValores = resultadoFinal.toFixed(2);
+        const dadosTratados = trataPonto(fixandoValores);
+        return dadosTratados;
+    }
+    // console.log("Nenhum valor de juros encontrado.");
+    return false;
+    };
+    const getAtMonet = (pdf) => { // at monetaria - Obs: Caso venha negativo retornar como excecao
+        const targetKeyword = "At Monet";
+        let valoresJuros = [];
+    
+        for (const table of pdf.tables) {
+            const rows = table.valuesContent.filter((row) => row.some((cell) => cell.includes(targetKeyword)));
+    
+            for (const row of rows) {
+                let valor = row[1];
+                if (valor) {
+                    // Adiciona zeros à direita para manter três casas decimais
+                    valor = valor.replace(/,/g, '.');
+                    const partes = valor.split('.');
+                    if (partes.length === 1) {
+                        valor = partes[0] + '.000';
+                    } else if (partes[1].length === 1) {
+                        valor = partes[0] + '.' + partes[1] + '00';
+                    } else if (partes[1].length === 2) {
+                        valor = partes[0] + '.' + partes[1] + '0';
+                    } else {
+                        valor = partes[0] + '.' + partes[1];
+                    }
+    
+                    valor = parseFloat(valor);
+                    valoresJuros.push(valor);
+                }
+            }
+        }
+        if (valoresJuros.length > 0) {
+            // Inicializa variável para armazenar o sinal
+            let sinal = 1;
+            // Mapeia os valores, guarda o sinal e converte para valores absolutos
+            const valoresAbsolutos = valoresJuros.map((valor) => {
+                if (valor < 0) {
+                    sinal = -1;  // Guarda o sinal negativo
+                }
+                return Math.abs(valor);
+            });
+           // Soma os valores absolutos
+           const somaValoresEncontrados = valoresAbsolutos.reduce((total, valor) => total + valor, 0);
+           // Aplica o sinal ao resultado final
+           const resultadoFinal = somaValoresEncontrados * sinal;
+           // Formate o resultado com três casas decimais
+           const fixandoValores = resultadoFinal.toFixed(2);
+           const dadosTratados = trataPonto(fixandoValores);
+           return dadosTratados;
+       }
+       // console.log("Nenhum valor de juros encontrado.");
+       return false;
+    }; 
+    const getJurosComum = (pdf) => { // JurosComum - Obs: Caso venha negativo retornar como excecao
+        const targetKeyword = "Juros";
+        let valoresJuros = [];
+    
+        for (const table of pdf.tables) {
+            const rows = table.valuesContent.filter((row) => row.some((cell) => cell.includes(targetKeyword)));
+    
+            for (const row of rows) {
+                let valor = row[1];
+                if (valor) {
+                    // Adiciona zeros à direita para manter três casas decimais
+                    valor = valor.replace(/,/g, '.');
+                    const partes = valor.split('.');
+                    if (partes.length === 1) {
+                        valor = partes[0] + '.000';
+                    } else if (partes[1].length === 1) {
+                        valor = partes[0] + '.' + partes[1] + '00';
+                    } else if (partes[1].length === 2) {
+                        valor = partes[0] + '.' + partes[1] + '0';
+                    } else {
+                        valor = partes[0] + '.' + partes[1];
+                    }
+    
+                    valor = parseFloat(valor);
+                    valoresJuros.push(valor);
+                }
+            }
+        }
+        if (valoresJuros.length > 0) {
+            // Inicializa variável para armazenar o sinal
+            let sinal = 1;
+            // Mapeia os valores, guarda o sinal e converte para valores absolutos
+            const valoresAbsolutos = valoresJuros.map((valor) => {
+                if (valor < 0) {
+                    sinal = -1;  // Guarda o sinal negativo
+                }
+                return Math.abs(valor);
+            });
+            // Soma os valores absolutos
+            const somaValoresEncontrados = valoresAbsolutos.reduce((total, valor) => total + valor, 0);
+            // Aplica o sinal ao resultado final
+            const resultadoFinal = somaValoresEncontrados * sinal;
+            // Formate o resultado com três casas decimais
+            const fixandoValores = resultadoFinal.toFixed(2);
+            const dadosTratados = trataPonto(fixandoValores);
+            return dadosTratados;
+        }
+        // console.log("Nenhum valor de juros encontrado.");
+        return false;
+    };
+    const getJuros = (vlrJurosComum, vlrAtMonet) => { //somando todos os juros 
+        const juros1 = (vlrJurosComum !== false) ? vlrJurosComum : "0.00";
+        const juros2 = (vlrAtMonet !== false) ? vlrAtMonet : "0.00";
+   
+        // console.log(juros2,juros1)
+        if (juros1 === "0.00" && juros2 === "0.00") {
+            return false;
+        }
+        const valoresSomados = somarValoresFloat(juros1, juros2);
+        return valoresSomados;
+       
+    }; 
+    const getCredito = (pdf) => { //Credito = Desconto e acrescimo no SGU
+        const targetKeyword = "Crédito";
+        let valoresJuros = [];
+    
+        for (const table of pdf.tables) {
+            const rows = table.valuesContent.filter((row) => row.some((cell) => cell.includes(targetKeyword)));
+    
+            for (const row of rows) {
+                let valor = row[1];
+                if (valor) {
+
+                    // Adiciona zeros à direita para manter três casas decimais
+                    valor = valor.replace(/,/g, '.');
+                    const partes = valor.split('.');
+                    if (partes.length === 1) {
+                        valor = partes[0] + '.000';
+                    } else if (partes[1].length === 1) {
+                        valor = partes[0] + '.' + partes[1] + '00';
+                    } else if (partes[1].length === 2) {
+                        valor = partes[0] + '.' + partes[1] + '0';
+                    } else {
+                        valor = partes[0] + '.' + partes[1];
+                    }
+    
+                    valor = parseFloat(valor);
+                    valoresJuros.push(valor);
+                }
+            }
+        }
+    // Certifique-se de que há valores em valoresJuros antes de prosseguir
+    if (valoresJuros.length > 0) {
+        // Remova os sinais negativos dos valores
+        const valoresSemSinalNegativo = valoresJuros.map((valor) => Math.abs(valor));
+        // Some os valores absolutos
+        const somaValoresEncontrados = valoresSemSinalNegativo.reduce((total, valor) => total + valor, 0);
+        // Formate o resultado com três casas decimais
+        const fixandoValores = somaValoresEncontrados.toFixed(2)
+        const dadosTratados = trataPonto(fixandoValores)
+        return dadosTratados
+    }
+    return false;
+    }; 
+    const getLixo = (pdf) => {
+        const targetKeyword = "Lixo";
+    let valoresJuros = [];
+
+    for (const table of pdf.tables) {
+        const rows = table.valuesContent.filter((row) => row.some((cell) => cell.includes(targetKeyword)));
+
+        for (const row of rows) {
+            let valor = row[1];
+            if (valor) {
+                // Adiciona zeros à direita para manter três casas decimais
+                valor = valor.replace(/,/g, '.');
+                const partes = valor.split('.');
+                if (partes.length === 1) {
+                    valor = partes[0] + '.000';
+                } else if (partes[1].length === 1) {
+                    valor = partes[0] + '.' + partes[1] + '00';
+                } else if (partes[1].length === 2) {
+                    valor = partes[0] + '.' + partes[1] + '0';
+                } else {
+                    valor = partes[0] + '.' + partes[1];
+                }
+
+                valor = parseFloat(valor);
+                valoresJuros.push(valor);
+            }
+        }
+    }
+
+    if (valoresJuros.length > 0) {
+        const somaJuros = valoresJuros.reduce((total, valor) => total + valor, 0);
+        const resultadoFormatado = somaJuros.toFixed(2).toString(); // Formatação com três casas decimais
+        const valorEncontrado = resultadoFormatado.replace(/-/g,'');
+        return trataPonto(valorEncontrado)
+    }
+
+    // console.log("Nenhum valor de juros encontrado.");
+    return false;
+    }; 
+    const getTipo = (vlrLixo) => {
+        if(vlrLixo === false){
+            return "A"
+        }
+        return "AL"
+    };
+    const getEsgoto = (pdf) => { //Esgoto
+        const regexProcurado = /Esgoto:/i
+        let encontrouContador = 0;
+        let i = 0;
+    
+        while (i < pdf.lines.length) {
+            const line = pdf.lines[i];
+            const lineContent = line.content;
+            const lineMatches = lineContent.match(regexProcurado);
+    
+            if (lineMatches && lineMatches.length > 0) {
+                encontrouContador++;
+    
+                if (encontrouContador === 1) {
+                    const indexProximo = i + 1;
+                    const dado = pdf.lines[indexProximo]?.content.trim();
+                    const dados = trataPonto(dado);
+                    return dados || false
+                }
+            }
+    
+            i++;
+        }
+    
+        return false;
+    };
+    const getAgua =(pdf) =>{
+        const regexProcurado = /Água:/i
+        let encontrouContador = 0;
+        let i = 0;
+    
+        while (i < pdf.lines.length) {
+            const line = pdf.lines[i];
+            const lineContent = line.content;
+            const lineMatches = lineContent.match(regexProcurado);
+    
+            if (lineMatches && lineMatches.length > 0) {
+                encontrouContador++;
+    
+                if (encontrouContador === 1) {
+                    const indexProximo = i + 1;
+                    const dado = pdf.lines[indexProximo]?.content.trim();
+                    const dados = trataPonto(dado);
+                    return dados || false
+                }
+            }
+    
+            i++;
+        }
+    
+        return false;
+    };
+    const getDebito = (pdf) => { //Debito
+        const targetKeyword = "Débito"
+    
+        for (const table of pdf.tables) {
+            const rows = table.valuesContent.filter((row) => row.some((cell) => cell.includes(targetKeyword)));
+    
+            for (const row of rows) {
+                let valor = row[1];
+                if (valor) {
+                    console.log("encontrado valor debito",valor)
+                    // Adiciona zeros à direita para manter três casas decimais
+                    valor = valor.replace(/,/g, '.');
+                    const partes = valor.split('.');
+                    if (partes.length === 1) {
+                        valor = partes[0] + '.000';
+                    } else if (partes[1].length === 1) {
+                        valor = partes[0] + '.' + partes[1] + '00';
+                    } else if (partes[1].length === 2) {
+                        valor = partes[0] + '.' + partes[1] + '0';
+                    } else {
+                        valor = partes[0] + '.' + partes[1];
+                    }
+    
+                    valor = parseFloat(valor);
+
+                    // Retorna o primeiro valor encontrado e encerra a função
+                    return trataPonto(valor);
+                }
+            }
+        }
+    
+        return false;
+    };   
+    const getTaxaRegulacao = (pdf) => { //Esgoto
+        const targetKeyword = "Taxa de regula";
+    
+        for (const table of pdf.tables) {
+            const rows = table.valuesContent.filter((row) => row.some((cell) => cell.includes(targetKeyword)));
+    
+            for (const row of rows) {
+                let valor = row[1];
+                if (valor) {
+
+                    // Adiciona zeros à direita para manter três casas decimais
+                    valor = valor.replace(/,/g, '.');
+                    const partes = valor.split('.');
+                    if (partes.length === 1) {
+                        valor = partes[0] + '.000';
+                    } else if (partes[1].length === 1) {
+                        valor = partes[0] + '.' + partes[1] + '00';
+                    } else if (partes[1].length === 2) {
+                        valor = partes[0] + '.' + partes[1] + '0';
+                    } else {
+                        valor = partes[0] + '.' + partes[1];
+                    }
+    
+                    valor = parseFloat(valor);
+
+                    // Retorna o primeiro valor encontrado e encerra a função
+                    return trataPonto(valor);
+                }
+            }
+        }
+    
+        return false;
+    };
+    const getValorTotalBruto = (pdf) => {
+    
+        const targetHeaderRegex = /total/i;
+        // Encontrar o headersContent correspondente
+        const matchingHeaders = pdf.tables.find((table) =>
+          table.headersContent.some((headerCell) => targetHeaderRegex.test(headerCell))
+        );
+        // Verificar se headersContent foi encontrado
+        if (matchingHeaders) {
+          const valuesContent = matchingHeaders.valuesContent || [];
+      
+          // Verificar se valuesContent não está vazio
+          if (valuesContent.length > 0) {
+            const ultimoArray = valuesContent[valuesContent.length - 1];
+            const ultimoValor = ultimoArray[ultimoArray.length - 1];
+            const valorNumerico = parseFloat(ultimoValor.replace(/[^\d,]/g, '').replace(',', '.'));
+            return trataPonto(valorNumerico)
+          } else {
+            return false; // Ou retorne algo apropriado para indicar que está vazio
+          }
+        }
+    };
+    const getExcecao = (vlrDebito, vlrJurosComum, vlrAtMonet ,vlrMultas) => { //flag de verificacao para gerar no SGU se retornar como true gerar excecao 
+        if(vlrDebito !== false){
+            // console.log('Gerar excecao no SGU')
+            return true 
+        }
+        if (vlrJurosComum !== false) {
+            const verificar = vlrJurosComum.includes('-');
+            //console.log('Possui valores negaativos em vlrJurosComum ?',verificar)
+            return verificar
+        };
+        if (vlrAtMonet !== false) {
+            const verificar = vlrAtMonet.includes('-');
+            //console.log('Possui valores negativos em vlrAtMonet ?',verificar)
+            return verificar
+        };
+        if (vlrMultas !== false) {
+            const verificar = vlrMultas.includes('-');
+            //console.log('Possui valores negativos em vlrMultas ?',verificar)
+            return verificar
+        };
+        return false
+    };
+    const getValorLiquido = (pdf, vlrValorTotalBruto, vlrMultas, vlrAtMonet, vlrJuros, vlrJurosComum, vlrCredito, vlrAgua, vlrEsgoto, vlrTaxaRegulacao,vlrLixo, vlrDebito) => {
+        
+        const valorBruto = vlrValorTotalBruto
+        const multa =  vlrMultas;
+        const atMonet = vlrAtMonet;
+        const juros =  vlrJurosComum;
+        const credito = vlrCredito;
+        const agua = vlrAgua;
+        const esgoto = vlrEsgoto
+        const taxaRegulacao = vlrTaxaRegulacao
+        const lixo = vlrLixo
+        //console.log('#Valor bruto = ', valorBruto,'/ #Valor de juros = ', juros,'/ #Valor de atMonet = ', atMonet,)
+        if (credito !== false){ //somar agua esgoto e taxa regulacao ok
+            let valor = agua 
+            if(esgoto !== false){
+                valor = somarValoresFloat(valor, esgoto);
+              }
+            if(taxaRegulacao !== false){
+                valor = somarValoresFloat(valor, taxaRegulacao);
+            }
+            if(multa !== false){
+                valor = subtrairValoresFloat(valor, multa);
+            }
+            if(atMonet !== false){
+                valor = subtrairValoresFloat(valor, atMonet);
+            }
+            if(juros !== false){
+                valor = subtrairValoresFloat(valor, juros);
+            }
+
+            //console.log('Soma dos valores apos o credito',valor)
+            return valor
+
+
+        }else{
+            if (lixo !== false) { //somar as despesas nromais sem a atxa de lixo
+                let valor = agua 
+                if(esgoto !== false){
+                    valor = somarValoresFloat(valor, esgoto);
+                  }
+                if(taxaRegulacao !== false){
+                    valor = somarValoresFloat(valor, taxaRegulacao);
+                }
+                if(multa !== false){
+                    valor = subtrairValoresFloat(valor, multa);
+                }
+                if(atMonet !== false){
+                    valor = subtrairValoresFloat(valor, atMonet);
+                }
+                if(juros !== false){
+                    valor = subtrairValoresFloat(valor, juros);
+                }
+                //console.log('Soma dos valores Quando tiver taxa lixo',valor)
+                return valor
+
+        }else{
+
+        let valor = valorBruto
+        if(multa !== false){
+          valor = subtrairValoresFloat(valor, multa);
+        }
+        if(atMonet !== false){
+          valor = subtrairValoresFloat(valor, atMonet);
+        }
+        if(juros !== false){
+          valor = subtrairValoresFloat(valor, juros);
+        }
+        const valorTotalDesc = valorBruto
+      
+            if(trataPonto(vlrValorTotalBruto) !== '0,00' && valorTotalDesc === '*'){
+              isZerado.isZerado = true;
+            }
+            //console.log(`Valor Liquido Final`,valor)
+            return valor
+        }
+    }
+    };
+
+    const getDados = (pdf) => {
+      const vlrVencimento = getVencimento(pdf);
+      const vlrDataDeEmissao = getDataDeEmissao(pdf);
+      const vlrContaReferente = getContaReferenteA(pdf, vlrDataDeEmissao);
+      const vlrConsumoDoMes = getConsumoDoMes(pdf);
+      const vlrLeituraAtual = getLeituraAtual(pdf);
+      const vlrValorLeituraAtual = getValorLeituraAtual(pdf, vlrLeituraAtual);
+      const vlrLeituraAnterior = getLeituraAnterior(pdf);
+      const vlrValorLeituraAnterior = getValorLeituraAnterior(pdf);
+      const vlrProximaleitura = getProximaLeitura(pdf);
+      const vlrMultas = getMultas(pdf);
+      const vlrAtMonet = getAtMonet(pdf);
+      const vlrJurosComum = getJurosComum(pdf);
+      const vlrJuros = getJuros(vlrAtMonet, vlrJurosComum);
+      const vlrLixo = getLixo(pdf);
+      const vlrEsgoto = getEsgoto(pdf);
+      const vlrTaxaRegulacao = getTaxaRegulacao(pdf);
+      const vlrAgua = getAgua(pdf);
+      const vlrCredito = getCredito(pdf);
+      const vlrDesconto = getCredito(pdf); //vlrDesconto = getCredito
+      const vlrDebito = getDebito(pdf);
+      const vlrValorTotalBruto = getValorTotalBruto(pdf);
+      const vlrTotalaPagar = getValorLiquido(pdf, vlrValorTotalBruto, vlrMultas, vlrAtMonet, vlrJuros, vlrJurosComum, vlrCredito, vlrAgua ,vlrEsgoto, vlrTaxaRegulacao,vlrLixo);
+      const vlrExcecao = getExcecao(vlrDebito, vlrJurosComum, vlrAtMonet ,vlrMultas);
+      const vlrTipo = getTipo(vlrLixo);
+      
+
+      return {
+        vlrVencimento,
+        vlrContaReferente,
+        vlrDataDeEmissao,
+        vlrConsumoDoMes,
+        vlrLeituraAtual,
+        vlrValorLeituraAtual,
+        vlrLeituraAnterior,
+        vlrValorLeituraAnterior,
+        vlrProximaleitura,
+        vlrMultas,
+        vlrAtMonet,
+        vlrJurosComum,
+        vlrJuros,
+        vlrCredito,
+        vlrDesconto,
+        vlrLixo,
+        vlrEsgoto,//
+        vlrTaxaRegulacao,
+        vlrAgua,
+        vlrDebito,
+        vlrValorTotalBruto,
+        vlrTipo,
+        vlrTotalaPagar,
+        vlrExcecao,
+
+      };
+    };
+  
+    //ate aqui
+  
+  const dados = getDados(pdfData);
+  console.log(dados);
+  
+  return false;
+  }
+  
+  for (let nota in notas) {
+  // uma nota use abaixo
+//       if(nota !== "C:\\Users\\valore.robo19\\Desktop\\roberty\\Casos para homologacao\\fatura (3)_unlocked.pdf") {
+//        continue
+//   }
+  //uma nota so use acima ou comente
+
+  
+  console.log(`---------- ${nota} ----------`)
+  dadosNota(notas[nota])
+  
+  }
+   
